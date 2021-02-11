@@ -19,6 +19,10 @@ Feel free to browse around, but here are some quick starting points.
 
 - [ml-skeleton-py](https://github.com/datarootsio/ml-skeleton-py): An opinionated project template that allows you to get started on a new machine learning project.
 
+### Models
+
+- [face-mask-detection](https://github.com/datarootsio/face-mask-detection): A face mask detection model 😷
+
 ### Other channels
 
 - [Youtube](https://www.youtube.com/c/dataroots)
