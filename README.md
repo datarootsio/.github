@@ -22,6 +22,7 @@ Feel free to browse around, but here are some quick starting points.
 ### Models
 
 - [face-mask-detection](https://github.com/datarootsio/face-mask-detection): A face mask detection model 😷
+- [fresh-coffee-listener](https://github.com/datarootsio/fresh-coffee-listener): Sound detection model to automatically count coffee consumption ☕️
 
 ### Other channels
 
