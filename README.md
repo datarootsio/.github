@@ -30,6 +30,8 @@ Feel free to browse around, but here are some quick starting points.
 - [Meetup](https://www.meetup.com/rootlabs-x/)
 - [Web](https://dataroots.io)
 - [Instagram](https://www.instagram.com/lifeatdataroots/)
+- [LinkedIn](https://www.linkedin.com/company/dataroots)
+- [Twitter](https://twitter.com/Datarootsio)
 - [Email](mailto:info@dataroots.io)
 
 
