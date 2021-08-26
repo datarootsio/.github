@@ -22,6 +22,7 @@ Feel free to browse around, but here are some quick starting points.
 ### Models
 
 - [face-mask-detection](https://github.com/datarootsio/face-mask-detection): A face mask detection model 😷
+- [fresh-coffee-listener](https://github.com/datarootsio/fresh-coffee-listener): Sound detection model to automatically count coffee consumption ☕️
 
 ### Other channels
 
@@ -29,6 +30,8 @@ Feel free to browse around, but here are some quick starting points.
 - [Meetup](https://www.meetup.com/rootlabs-x/)
 - [Web](https://dataroots.io)
 - [Instagram](https://www.instagram.com/lifeatdataroots/)
+- [LinkedIn](https://www.linkedin.com/company/dataroots)
+- [Twitter](https://twitter.com/Datarootsio)
 - [Email](mailto:info@dataroots.io)
 
 
