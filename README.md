@@ -18,6 +18,7 @@ Feel free to browse around, but here are some quick starting points.
 ### Templates
 
 - [ml-skeleton-py](https://github.com/datarootsio/ml-skeleton-py): An opinionated project template that allows you to get started on a new machine learning project.
+- [skeleton-pyspark](https://github.com/datarootsio/skeleton-pyspark): An opinionated project template that allows you to get started on an ETL job with PySpark.
 
 ### Models
 
