@@ -37,4 +37,4 @@ Feel free to browse around, but here are some quick starting points.
 
 
 
-<img src="rootlabs.png" height="120px" style="float:right" />
+<img src="https://github.com/datarootsio/.github/raw/main/profile/rootlabs.png" height="120px" style="float:right" />
