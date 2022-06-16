@@ -37,6 +37,7 @@ Feel free to browse around, but here are some quick starting points.
 - [Youtube](https://www.youtube.com/c/dataroots)
 - [Meetup](https://www.meetup.com/rootlabs-x/)
 - [Web](https://dataroots.io)
+- [Hugginface](https://huggingface.co/dataroots)
 - [Instagram](https://www.instagram.com/lifeatdataroots/)
 - [LinkedIn](https://www.linkedin.com/company/dataroots)
 - [Twitter](https://twitter.com/Datarootsio)
