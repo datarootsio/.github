@@ -29,9 +29,8 @@ Feel free to browse around, but here are some quick starting points.
 - [face-mask-detection](https://github.com/datarootsio/face-mask-detection): A face mask detection model 😷
 - [fresh-coffee-listener](https://github.com/datarootsio/fresh-coffee-listener): Sound detection model to automatically count coffee consumption ☕️
 
-### Rootsacademy Project
-- [bikefitting]([https://github.com/datarootsio/rootsacademy-trout-slapper](https://github.com/datarootsio/bikefitting)): A project to use video of someone biking to get a recommendation on the optimal saddle height
-- 
+### Rootsacademy Projects:
+- [bikefitting]([https://github.com/datarootsio/rootsacademy-trout-slapper](https://github.com/datarootsio/bikefitting): A project to use video of someone biking to get a recommendation on the optimal saddle height
 
 ### Other channels
 
