@@ -14,6 +14,7 @@ Feel free to browse around, but here are some quick starting points.
 ### Tutorials
 
 - [tutorial-great-expectations](https://github.com/datarootsio/tutorial-great-expectations): A tutorial for the Great Expectations library.
+- [tutorial-face-mask-detection](https://github.com/datarootsio/tutorial-face-mask-detection): A tutorial to detect masks, using MobileNetV1.
 
 ### Templates
 
