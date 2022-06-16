@@ -15,6 +15,7 @@ Feel free to browse around, but here are some quick starting points.
 
 - [tutorial-great-expectations](https://github.com/datarootsio/tutorial-great-expectations): A tutorial for the Great Expectations library.
 - [tutorial-face-mask-detection](https://github.com/datarootsio/tutorial-face-mask-detection): A tutorial to detect masks, using MobileNetV1.
+- [tutorial-mlops](https://github.com/datarootsio/tutorial-mlops): A tutorial to learn MLOps best practices with an example using DVC, pycaret and MLflow. Open in [colab] (https://colab.research.google.com/github/datarootsio/mlops-workshop/blob/main/notebooks/MLOps_Tutorial.ipynb)
 
 ### Templates
 
