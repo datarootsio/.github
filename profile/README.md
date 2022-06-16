@@ -16,6 +16,7 @@ Feel free to browse around, but here are some quick starting points.
 - [tutorial-great-expectations](https://github.com/datarootsio/tutorial-great-expectations): A tutorial for the Great Expectations library.
 - [tutorial-face-mask-detection](https://github.com/datarootsio/tutorial-face-mask-detection): A tutorial to detect masks, using MobileNetV1.
 - [tutorial-mlops](https://github.com/datarootsio/tutorial-mlops): A tutorial to learn MLOps best practices with an example using DVC, pycaret and MLflow. Open in [colab](https://colab.research.google.com/github/datarootsio/mlops-workshop/blob/main/notebooks/MLOps_Tutorial.ipynb)
+- [tutorial-hyperparameter-optimization](https://github.com/datarootsio/tutorial-hyperparameter-optimization): A tutorial to know about the latest hyperparameters optimization techniques. <a href="https://colab.research.google.com/drive/1fNzrF96E-Uhexdd0mFITsp-YpWZ2Mzwa" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>.
 
 ### Templates
 
@@ -26,6 +27,10 @@ Feel free to browse around, but here are some quick starting points.
 
 - [face-mask-detection](https://github.com/datarootsio/face-mask-detection): A face mask detection model 😷
 - [fresh-coffee-listener](https://github.com/datarootsio/fresh-coffee-listener): Sound detection model to automatically count coffee consumption ☕️
+
+### Rootsacademy Project
+- [bikefitting]([https://github.com/datarootsio/rootsacademy-trout-slapper](https://github.com/datarootsio/bikefitting)): A project to use video of someone biking to get a recommendation on the optimal saddle height
+- 
 
 ### Other channels
 
