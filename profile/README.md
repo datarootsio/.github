@@ -10,6 +10,7 @@ Feel free to browse around, but here are some quick starting points.
 - [terraform-module-kubernetes-application](https://github.com/datarootsio/terraform-module-kubernetes-application): Terraform module for a kubernetes application
 - [terraform-provider-kubeflowpipelines](https://github.com/datarootsio/terraform-provider-kubeflowpipelines): Terraform provider for Kubeflow pipelines API
 - [terraform-module-azure-storage-sas](https://github.com/datarootsio/terraform-module-azure-storage-sas): Terraform module for Azure Storage SAS tokens
+- [terraform-module-azure-snowflake](https://github.com/datarootsio/terraform-module-azure-snowflake): Terraform module for Snowflake on Azure
 
 ### Tutorials
 
@@ -31,6 +32,7 @@ Feel free to browse around, but here are some quick starting points.
 
 ### Rootsacademy Projects:
 - [bikefitting](https://github.com/datarootsio/bikefitting): A project to use video of someone biking to get a recommendation on the optimal saddle height
+- [terraform-module-azure-snowflake](https://github.com/datarootsio/terraform-module-azure-snowflake): Terraform module for Snowflake on Azure
 
 ### Other channels
 
