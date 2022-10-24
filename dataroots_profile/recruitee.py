@@ -45,8 +45,9 @@ def offer2str(offer: Offer, *, url_base: str = URL_BASE) -> str:
 
 def jobs2str(offers: list[Offer], **offer2str_kwargs: Any) -> str:
     """Get a nice string with jobs from listing."""
+    if not offers:
+        raise ValueError(f"Expected list of offers, got {offers}.")
     offers = "\n".join(offer2str(offer, **offer2str_kwargs) for offer in offers)
-
     return dedent(
         f"""\
 ### Join our team! 🤝
