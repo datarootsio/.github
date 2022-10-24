@@ -7,6 +7,7 @@ authors = ["Murilo Cunha <murilo@dataroots.io>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 requests = "^2.28.1"
+cogapp = "^3.3.0"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.20.0"
