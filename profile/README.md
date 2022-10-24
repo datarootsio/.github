@@ -14,7 +14,7 @@ Feel free to browse around, but here are some quick starting points.
 
 ### Tutorials
 
-- [tutorial-great-expectations](https://github.com/datarootsio/tutorial-great-expectations): A tutorial for the Great Expectations library. 
+- [tutorial-great-expectations](https://github.com/datarootsio/tutorial-great-expectations): A tutorial for the Great Expectations library.
 <a href="https://colab.research.google.com/github/datarootsio/tutorial-great-expectations/blob/main/tutorial_great_expectations.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 - [tutorial-face-mask-detection](https://github.com/datarootsio/tutorial-face-mask-detection): A tutorial to detect masks, using MobileNetV1.
 - [tutorial-mlops](https://github.com/datarootsio/tutorial-mlops): A tutorial to learn MLOps best practices with an example using DVC, pycaret and MLflow. <a href="https://colab.research.google.com/github/datarootsio/mlops-workshop/blob/main/notebooks/MLOps_Tutorial.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>, with its exercises <a href="https://colab.research.google.com/github/datarootsio/mlops-workshop/blob/main/notebooks/MLOps_Exercise.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
@@ -47,6 +47,30 @@ Feel free to browse around, but here are some quick starting points.
 - [Twitter](https://twitter.com/Datarootsio)
 - [Email](mailto:info@dataroots.io)
 
+<!-- [[[cog
+import os
+import cog
+from dataroots_profile import recruitee
 
+
+cog.out(
+    recruitee.info(
+        company_id=os.environ["RECRUITEE_COMPANY_ID"],
+        token=os.environ["RECRUITEE_TOKEN"],
+    )
+)
+]]] -->
+### Join our team! 🤝
+
+- 🎓 Internships
+    - 🏡 Leuven, Gent, Belgium
+    - [✍️ Apply!](https://careers.dataroots.io/o/internships)
+- 🤖  Experienced Machine Learning Engineer
+    - 🏡 Hybrid, Belgium
+    - [✍️ Apply!](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
+- 📬  Spontaneous application
+    - 🏡 Hybrid, Belgium
+    - [✍️ Apply!](https://careers.dataroots.io/o/spontaneous-application)
+<!-- [[[end]]] -->
 
 <img src="https://github.com/datarootsio/.github/raw/main/profile/rootlabs.png" height="120px" style="float:right" />
