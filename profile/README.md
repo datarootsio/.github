@@ -2,7 +2,6 @@
 <img src="https://dataroots.io/rectangle-symbol-rainbow.png" width=74 align="right">
 <h1 style="padding-top: 24px">🖖 Welcome to Dataroots' GitHub org</h1>
 
-
 [![youtube](assets/youtube.png)](https://www.youtube.com/c/dataroots)
 [![meetup](assets/meetup.png)](https://www.meetup.com/rootlabs-x/)
 [![web](assets/www.png)](https://dataroots.io)
@@ -13,8 +12,10 @@
 [![twitter](assets/twitter.png)](https://twitter.com/Datarootsio)
 [![email](assets/email.png)](mailto:info@dataroots.io)
 
+> Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
 
-Feel free to browse around, but here are some quick starting points.
+
+ℹ️ Feel free to browse around, below are some quick starting points.
 
 ## Terraform
 
