@@ -18,6 +18,8 @@ jobs:
           poetry config virtualenvs.create false
           poetry install --no-interaction --no-ansi
       - name: QA and test cog
+        env:
+          GHOST_KEY: ${{ secrets.GHOST_KEY }}
         run: |
           pre-commit run --all-files
           cog -r profile/README.md
