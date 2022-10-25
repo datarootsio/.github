@@ -52,10 +52,8 @@
 
 
 <!-- [[[cog
-import os
 import cog
 from dataroots_profile import recruitee
-
 
 cog.out(
     recruitee.info()
