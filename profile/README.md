@@ -49,7 +49,27 @@
 ## Rootsacademy Projects:
 - [bikefitting](https://github.com/datarootsio/bikefitting): A project to use video of someone biking to get a recommendation on the optimal saddle height
 - [terraform-module-azure-snowflake](https://github.com/datarootsio/terraform-module-azure-snowflake): Terraform module for Snowflake on Azure
+<!-- [[[cog
+import os
+import cog
+from dataroots_profile import ghost
 
+cog.out(
+    ghost.info(key=os.environ["GHOST_KEY"])
+)
+]]] -->
+## Our blog ✍️
+
+Our latest posts:
+
+- [MLOps - tutorial (10/13/22)](https://dataroots.io/research/contributions/mlops-tutorial)
+- [Songs of the machines (2) - Harmonisation (10/10/22)](https://dataroots.io/research/contributions/ai-songcontest-2022-coconet)
+- [Snowflake + Snowpark Python = machine learning? (10/03/22)](https://dataroots.io/research/contributions/snowflake-ml)
+- [Face Mask Detection - tutorial (09/29/22)](https://dataroots.io/research/contributions/face-mask-detection)
+- [AI a catalyst for innovation (09/26/22)](https://dataroots.io/research/contributions/ai-a-catalyst-for-innovation)
+
+Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
+<!-- [[[end]]] -->
 
 <!-- [[[cog
 import cog
