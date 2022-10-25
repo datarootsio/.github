@@ -18,10 +18,7 @@ jobs:
         run: |
           pip install poetry==${{ env.POETRY_VERSION }}
           poetry config virtualenvs.create false
-          poetry install --no-interaction --no-ansi
-      - name: QA
-        run: |
-          pre-commit run --all-files
+          poetry install --no-interaction --no-ansi --no-dev
       - name: Configure git user
         run: |
           git config --global user.name 'github-actions[bot]'
