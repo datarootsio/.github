@@ -27,9 +27,6 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
       - name: Update README with cogapp, commit and push
-        env:
-          RECRUITEE_COMPANY_ID: ${{ secrets.RECRUITEE_COMPANY_ID }}
-          RECRUITEE_TOKEN: ${{ secrets.RECRUITEE_TOKEN }}
         run: |
           cog -r profile/README.md
           git add profile/README.md

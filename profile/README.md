@@ -1,8 +1,22 @@
-## 🖖 Welcome to Dataroots' GitHub org
+
+<img src="https://dataroots.io/rectangle-symbol-rainbow.png" width=74 align="right">
+<h1 style="padding-top: 24px">🖖 Welcome to Dataroots' GitHub org</h1>
+
+
+[![youtube](assets/youtube.png)](https://www.youtube.com/c/dataroots)
+[![meetup](assets/meetup.png)](https://www.meetup.com/rootlabs-x/)
+[![web](assets/www.png)](https://dataroots.io)
+[![blog](assets/blogger.png)](https://dataroots.io/research/contributions)
+[![hugginface](assets/hugginface.png)](https://huggingface.co/dataroots)
+[![instagram](assets/instagram.png)](https://www.instagram.com/lifeatdataroots/)
+[![linkedin](assets/linkedin.png)](https://www.linkedin.com/company/dataroots)
+[![twitter](assets/twitter.png)](https://twitter.com/Datarootsio)
+[![email](assets/email.png)](mailto:info@dataroots.io)
+
 
 Feel free to browse around, but here are some quick starting points.
 
-### Terraform
+## Terraform
 
 - [terraform-module-azure-datalake](https://github.com/datarootsio/terraform-module-azure-datalake): Terraform module for an Azure Data Lake
 - [terraform-module-kubeflow](https://github.com/datarootsio/terraform-module-kubeflow): Kubeflow deployment purely in Terraform
@@ -12,7 +26,7 @@ Feel free to browse around, but here are some quick starting points.
 - [terraform-module-azure-storage-sas](https://github.com/datarootsio/terraform-module-azure-storage-sas): Terraform module for Azure Storage SAS tokens
 - [terraform-module-azure-snowflake](https://github.com/datarootsio/terraform-module-azure-snowflake): Terraform module for Snowflake on Azure
 
-### Tutorials
+## Tutorials
 
 - [tutorial-great-expectations](https://github.com/datarootsio/tutorial-great-expectations): A tutorial for the Great Expectations library.
 <a href="https://colab.research.google.com/github/datarootsio/tutorial-great-expectations/blob/main/tutorial_great_expectations.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
@@ -21,31 +35,20 @@ Feel free to browse around, but here are some quick starting points.
 - [tutorial-hyperparameter-optimization](https://github.com/datarootsio/tutorial-hyperparameter-optimization): A tutorial to know about the latest hyperparameters optimization techniques. <a href="https://colab.research.google.com/drive/1fNzrF96E-Uhexdd0mFITsp-YpWZ2Mzwa" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 - [tutorial-streamlit-demo](https://github.com/datarootsio/tutorial-streamlit-demo): A demo of what you can do with streamlit.
 
-### Templates
+## Templates
 
 - [ml-skeleton-py](https://github.com/datarootsio/ml-skeleton-py): An opinionated project template that allows you to get started on a new machine learning project.
 - [skeleton-pyspark](https://github.com/datarootsio/skeleton-pyspark): An opinionated project template that allows you to get started on an ETL job with PySpark.
 
-### Models
+## Models
 
 - [face-mask-detection](https://github.com/datarootsio/face-mask-detection): A face mask detection model 😷
 - [fresh-coffee-listener](https://github.com/datarootsio/fresh-coffee-listener): Sound detection model to automatically count coffee consumption ☕️
 
-### Rootsacademy Projects:
+## Rootsacademy Projects:
 - [bikefitting](https://github.com/datarootsio/bikefitting): A project to use video of someone biking to get a recommendation on the optimal saddle height
 - [terraform-module-azure-snowflake](https://github.com/datarootsio/terraform-module-azure-snowflake): Terraform module for Snowflake on Azure
 
-### Other channels
-
-- [Youtube](https://www.youtube.com/c/dataroots)
-- [Meetup](https://www.meetup.com/rootlabs-x/)
-- [Web](https://dataroots.io)
-- [Blog](https://dataroots.io/research/contributions)
-- [Hugginface](https://huggingface.co/dataroots)
-- [Instagram](https://www.instagram.com/lifeatdataroots/)
-- [LinkedIn](https://www.linkedin.com/company/dataroots)
-- [Twitter](https://twitter.com/Datarootsio)
-- [Email](mailto:info@dataroots.io)
 
 <!-- [[[cog
 import os
@@ -54,23 +57,24 @@ from dataroots_profile import recruitee
 
 
 cog.out(
-    recruitee.info(
-        company_id=os.environ["RECRUITEE_COMPANY_ID"],
-        token=os.environ["RECRUITEE_TOKEN"],
-    )
+    recruitee.info()
 )
 ]]] -->
-### Join our team! 🤝
+## Join our team! ❤️
 
-- 🎓 Internships
-    - 🏡 Leuven, Gent, Belgium
-    - [✍️ Apply!](https://careers.dataroots.io/o/internships)
-- 🤖  Experienced Machine Learning Engineer
-    - 🏡 Hybrid, Belgium
-    - [✍️ Apply!](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
-- 📬  Spontaneous application
-    - 🏡 Hybrid, Belgium
-    - [✍️ Apply!](https://careers.dataroots.io/o/spontaneous-application)
+Our open positions:
+
+- [☀️Junior Business Developer](https://careers.dataroots.io/o/junior-business-developer)
+- [🎓 Stage Marketing & Communicatie](https://careers.dataroots.io/o/stage-marketing-communicatie)
+- [🎓 Internships](https://careers.dataroots.io/o/internships)
+- [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
+- [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
+- [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
+- [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
+- [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
+- [📐 Cloud Architect](https://careers.dataroots.io/o/cloud-architect)
+- [📬  Spontaneous application](https://careers.dataroots.io/o/spontaneous-application)
+- [🔍 Recruitment & Talent Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
+
+For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
-
-<img src="https://github.com/datarootsio/.github/raw/main/profile/rootlabs.png" height="120px" style="float:right" />
