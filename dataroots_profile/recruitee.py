@@ -35,14 +35,14 @@ def jobs2str(offers: list[Offer]) -> str:
     """Get a nice string with jobs from listing."""
     if not offers:
         raise ValueError(f"Expected list of offers, got {offers}.")
-    offers = "\n".join(offer2str(offer) for offer in offers)
+    _offers = "\n".join(offer2str(offer) for offer in offers)
     return dedent(
         f"""\
 ## Join our team! ❤️
 
 Our open positions:
 
-{offers}
+{_offers}
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈"""
     )

@@ -49,7 +49,7 @@ def content2str(posts: list[Post], n_posts: int = 5) -> str:
     """Get a nice string with blog contents from listing."""
     if not posts:
         raise ValueError(f"Expected list of posts, got {posts}.")
-    posts = "\n".join(
+    _posts = "\n".join(
         post2str(post)
         for post in sorted(posts[:n_posts], key=lambda p: p.published_at, reverse=True)
     )
@@ -59,7 +59,7 @@ def content2str(posts: list[Post], n_posts: int = 5) -> str:
 
 Our latest posts:
 
-{posts}
+{_posts}
 
 Check out all our posts at [dataroots.io/research/contributions/]\
 (https://dataroots.io/research/contributions/) 👈"""
