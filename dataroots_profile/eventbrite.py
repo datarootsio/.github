@@ -75,19 +75,14 @@ def calendar2str(events: list[Event], n_events: int = 5) -> str:
         event2str(post)
         for post in sorted(events[-n_events:], key=lambda e: e.start.local)
     )
-    return (
-        dedent(
-            f"""\
+    _upcoming = f"\nUpcoming:\n\n{_events}\n" if _events else ""
+
+    return dedent(
+        f"""\
 ## Our events 🍻
-
-Upcoming:
-
-{_events}
-
-Check out all our events at [dataroots.io/events/](https://dataroots.io/events/) 👈"""
-        )
-        if _events
-        else ""
+{_upcoming}
+Check out all our events at [dataroots.io/events/](https://dataroots.io/events/)\
+ or sign up to our [weekly digest](http://eepurl.com/gzXeR5) 👈"""
     )
 
 
