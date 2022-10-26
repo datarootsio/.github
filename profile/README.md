@@ -45,10 +45,21 @@
 
 - [face-mask-detection](https://github.com/datarootsio/face-mask-detection): A face mask detection model 😷
 - [fresh-coffee-listener](https://github.com/datarootsio/fresh-coffee-listener): Sound detection model to automatically count coffee consumption ☕️
+- [snowflake-ml](https://github.com/datarootsio/snowflake-ml): Toy use case on how to use Snowflake as a full ML platform. ❄️
 
 ## Rootsacademy Projects:
+
 - [bikefitting](https://github.com/datarootsio/bikefitting): A project to use video of someone biking to get a recommendation on the optimal saddle height
 - [terraform-module-azure-snowflake](https://github.com/datarootsio/terraform-module-azure-snowflake): Terraform module for Snowflake on Azure
+
+## Open source packages
+
+- [databooks](https://github.com/datarootsio/databooks): for sharing and caring about Jupyter notebooks ❤️
+- [cheek](https://github.com/datarootsio/cheek): Crontab-like scHeduler for Effective Execution of tasKs, cheek for short
+- [phonehome](https://github.com/datarootsio/phonehome): KISS telemetry for FOSS packages
+- [expiring-lru-cache](https://github.com/datarootsio/expiring-lru-cache): LRU caching with expiration period
+- [rootsstyle](https://github.com/datarootsio/rootsstyle): a dataroots inspired style for Matplotlib
+- [artyfarty](https://github.com/datarootsio/artyfarty): ggplot2 theme + palette presets
 
 <!-- [[[cog
 import os
