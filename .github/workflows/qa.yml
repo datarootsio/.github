@@ -20,6 +20,7 @@ jobs:
       - name: QA and test cog
         env:
           GHOST_KEY: ${{ secrets.GHOST_KEY }}
+          EVENTBRITE_KEY: ${{ secrets.EVENTBRITE_KEY }}
         run: |
           pre-commit run --all-files
           cog -r profile/README.md

@@ -26,6 +26,7 @@ jobs:
       - name: Update README with cogapp, commit and push
         env:
           GHOST_KEY: ${{ secrets.GHOST_KEY }}
+          EVENTBRITE_KEY: ${{ secrets.EVENTBRITE_KEY }}
         run: |
           cog -r profile/README.md
           git add profile/README.md
