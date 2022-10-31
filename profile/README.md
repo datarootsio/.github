@@ -1,8 +1,23 @@
-## 🖖 Welcome to Dataroots' GitHub org
 
-Feel free to browse around, but here are some quick starting points.
+<img src="https://dataroots.io/rectangle-symbol-rainbow.png" width=74 align="right">
+<h1 style="padding-top: 24px">🖖 Welcome to Dataroots' GitHub org</h1>
 
-### Terraform
+[![youtube](assets/youtube.png)](https://www.youtube.com/c/dataroots)
+[![meetup](assets/meetup.png)](https://www.meetup.com/rootlabs-x/)
+[![web](assets/www.png)](https://dataroots.io)
+[![blog](assets/blogger.png)](https://dataroots.io/research/contributions)
+[![hugginface](assets/hugginface.png)](https://huggingface.co/dataroots)
+[![instagram](assets/instagram.png)](https://www.instagram.com/lifeatdataroots/)
+[![linkedin](assets/linkedin.png)](https://www.linkedin.com/company/dataroots)
+[![twitter](assets/twitter.png)](https://twitter.com/Datarootsio)
+[![email](assets/email.png)](mailto:info@dataroots.io)
+
+> Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
+
+
+ℹ️ Feel free to browse around, below are some quick starting points.
+
+## Terraform
 
 - [terraform-module-azure-datalake](https://github.com/datarootsio/terraform-module-azure-datalake): Terraform module for an Azure Data Lake
 - [terraform-module-kubeflow](https://github.com/datarootsio/terraform-module-kubeflow): Kubeflow deployment purely in Terraform
@@ -12,41 +27,105 @@ Feel free to browse around, but here are some quick starting points.
 - [terraform-module-azure-storage-sas](https://github.com/datarootsio/terraform-module-azure-storage-sas): Terraform module for Azure Storage SAS tokens
 - [terraform-module-azure-snowflake](https://github.com/datarootsio/terraform-module-azure-snowflake): Terraform module for Snowflake on Azure
 
-### Tutorials
+## Tutorials
 
-- [tutorial-great-expectations](https://github.com/datarootsio/tutorial-great-expectations): A tutorial for the Great Expectations library. 
+- [tutorial-great-expectations](https://github.com/datarootsio/tutorial-great-expectations): A tutorial for the Great Expectations library.
 <a href="https://colab.research.google.com/github/datarootsio/tutorial-great-expectations/blob/main/tutorial_great_expectations.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 - [tutorial-face-mask-detection](https://github.com/datarootsio/tutorial-face-mask-detection): A tutorial to detect masks, using MobileNetV1.
 - [tutorial-mlops](https://github.com/datarootsio/tutorial-mlops): A tutorial to learn MLOps best practices with an example using DVC, pycaret and MLflow. <a href="https://colab.research.google.com/github/datarootsio/mlops-workshop/blob/main/notebooks/MLOps_Tutorial.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>, with its exercises <a href="https://colab.research.google.com/github/datarootsio/mlops-workshop/blob/main/notebooks/MLOps_Exercise.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 - [tutorial-hyperparameter-optimization](https://github.com/datarootsio/tutorial-hyperparameter-optimization): A tutorial to know about the latest hyperparameters optimization techniques. <a href="https://colab.research.google.com/drive/1fNzrF96E-Uhexdd0mFITsp-YpWZ2Mzwa" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 - [tutorial-streamlit-demo](https://github.com/datarootsio/tutorial-streamlit-demo): A demo of what you can do with streamlit.
 
-### Templates
+## Templates
 
 - [ml-skeleton-py](https://github.com/datarootsio/ml-skeleton-py): An opinionated project template that allows you to get started on a new machine learning project.
 - [skeleton-pyspark](https://github.com/datarootsio/skeleton-pyspark): An opinionated project template that allows you to get started on an ETL job with PySpark.
 
-### Models
+## Models
 
 - [face-mask-detection](https://github.com/datarootsio/face-mask-detection): A face mask detection model 😷
 - [fresh-coffee-listener](https://github.com/datarootsio/fresh-coffee-listener): Sound detection model to automatically count coffee consumption ☕️
+- [snowflake-ml](https://github.com/datarootsio/snowflake-ml): Toy use case on how to use Snowflake as a full ML platform. ❄️
 
-### Rootsacademy Projects:
+## Rootsacademy Projects:
+
 - [bikefitting](https://github.com/datarootsio/bikefitting): A project to use video of someone biking to get a recommendation on the optimal saddle height
 - [terraform-module-azure-snowflake](https://github.com/datarootsio/terraform-module-azure-snowflake): Terraform module for Snowflake on Azure
 
-### Other channels
+## Open source packages
 
-- [Youtube](https://www.youtube.com/c/dataroots)
-- [Meetup](https://www.meetup.com/rootlabs-x/)
-- [Web](https://dataroots.io)
-- [Blog](https://dataroots.io/research/contributions)
-- [Hugginface](https://huggingface.co/dataroots)
-- [Instagram](https://www.instagram.com/lifeatdataroots/)
-- [LinkedIn](https://www.linkedin.com/company/dataroots)
-- [Twitter](https://twitter.com/Datarootsio)
-- [Email](mailto:info@dataroots.io)
+- [databooks](https://github.com/datarootsio/databooks): for sharing and caring about Jupyter notebooks ❤️
+- [cheek](https://github.com/datarootsio/cheek): Crontab-like scHeduler for Effective Execution of tasKs, cheek for short
+- [phonehome](https://github.com/datarootsio/phonehome): KISS telemetry for FOSS packages
+- [expiring-lru-cache](https://github.com/datarootsio/expiring-lru-cache): LRU caching with expiration period
+- [rootsstyle](https://github.com/datarootsio/rootsstyle): a dataroots inspired style for Matplotlib
+- [artyfarty](https://github.com/datarootsio/artyfarty): ggplot2 theme + palette presets
 
+<!-- [[[cog
+import os
+import cog
+from dataroots_profile import eventbrite
 
+cog.out(
+    eventbrite.info(key=os.environ["EVENTBRITE_KEY"])
+)
+]]] -->
+## Our events 🍻
 
-<img src="https://github.com/datarootsio/.github/raw/main/profile/rootlabs.png" height="120px" style="float:right" />
+Upcoming:
+
+- [11/08/22 - Brain Food: Getting started with dbt - part 1/2](https://www.eventbrite.be/e/brain-food-getting-started-with-dbt-part-12-tickets-403342356847)
+- [11/17/22 - Meetup: Rootsacademy Project](https://www.eventbrite.be/e/meetup-rootsacademy-project-tickets-405085781477)
+- [12/06/22 - Brain Food: Getting started with dbt - part 2/2](https://www.eventbrite.be/e/brain-food-getting-started-with-dbt-part-22-tickets-403923996547)
+
+Check out all our events at [dataroots.io/events/](https://dataroots.io/events/) or sign up to our [weekly digest](http://eepurl.com/gzXeR5) 👈
+<!-- [[[end]]] -->
+
+<!-- [[[cog
+import os
+import cog
+from dataroots_profile import ghost
+
+cog.out(
+    ghost.info(key=os.environ["GHOST_KEY"])
+)
+]]] -->
+## Our blog ✍️
+
+Our latest posts:
+
+- [Hyper parameter tuning with Optuna - tutorial (10/27/22)](https://dataroots.io/research/contributions/hyper-parameter-tuning-with-optuna-tutorial)
+- [MLOps - tutorial (10/13/22)](https://dataroots.io/research/contributions/mlops-tutorial)
+- [Songs of the machines (2) - Harmonisation (10/10/22)](https://dataroots.io/research/contributions/ai-songcontest-2022-coconet)
+- [Snowflake + Snowpark Python = machine learning? (10/03/22)](https://dataroots.io/research/contributions/snowflake-ml)
+- [Face Mask Detection - tutorial (09/29/22)](https://dataroots.io/research/contributions/face-mask-detection)
+
+Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
+<!-- [[[end]]] -->
+
+<!-- [[[cog
+import cog
+from dataroots_profile import recruitee
+
+cog.out(
+    recruitee.info()
+)
+]]] -->
+## Join our team! ❤️
+
+Our open positions:
+
+- [☀️Junior Business Developer](https://careers.dataroots.io/o/junior-business-developer)
+- [🎓 Stage Marketing & Communicatie](https://careers.dataroots.io/o/stage-marketing-communicatie)
+- [🎓 Internships](https://careers.dataroots.io/o/internships)
+- [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
+- [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
+- [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
+- [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
+- [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
+- [📐 Cloud Architect](https://careers.dataroots.io/o/cloud-architect)
+- [📬  Spontaneous application](https://careers.dataroots.io/o/spontaneous-application)
+- [🔍 Recruitment & Talent Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
+
+For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
+<!-- [[[end]]] -->

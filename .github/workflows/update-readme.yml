@@ -1,0 +1,34 @@
+name: 'update readme'
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      POETRY_VERSION: 1.1.12
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Setup Poetry and dependencies
+        run: |
+          pip install poetry==${{ env.POETRY_VERSION }}
+          poetry config virtualenvs.create false
+          poetry install --no-interaction --no-ansi --no-dev
+      - name: Configure git user
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      - name: Update README with cogapp, commit and push
+        env:
+          GHOST_KEY: ${{ secrets.GHOST_KEY }}
+          EVENTBRITE_KEY: ${{ secrets.EVENTBRITE_KEY }}
+        run: |
+          cog -r profile/README.md
+          git add profile/README.md
+          git commit -m "(automated commit) update README with cog"
+          git push

@@ -1,0 +1,26 @@
+name: 'qa and tests'
+on: [push]
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    env:
+      POETRY_VERSION: 1.1.12
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Setup Poetry and dependencies
+        run: |
+          pip install poetry==${{ env.POETRY_VERSION }}
+          poetry config virtualenvs.create false
+          poetry install --no-interaction --no-ansi
+      - name: QA and test cog
+        env:
+          GHOST_KEY: ${{ secrets.GHOST_KEY }}
+          EVENTBRITE_KEY: ${{ secrets.EVENTBRITE_KEY }}
+        run: |
+          pre-commit run --all-files
+          cog -r profile/README.md
