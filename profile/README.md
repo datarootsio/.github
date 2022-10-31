@@ -78,7 +78,7 @@ Upcoming:
 - [11/17/22 - Meetup: Rootsacademy Project](https://www.eventbrite.be/e/meetup-rootsacademy-project-tickets-405085781477)
 - [12/06/22 - Brain Food: Getting started with dbt - part 2/2](https://www.eventbrite.be/e/brain-food-getting-started-with-dbt-part-22-tickets-403923996547)
 
-Check out all our events at [dataroots.io/events/](https://dataroots.io/events/) 👈
+Check out all our events at [dataroots.io/events/](https://dataroots.io/events/) or sign up to our [weekly digest](http://eepurl.com/gzXeR5) 👈
 <!-- [[[end]]] -->
 
 <!-- [[[cog
@@ -94,11 +94,11 @@ cog.out(
 
 Our latest posts:
 
+- [Hyper parameter tuning with Optuna - tutorial (10/27/22)](https://dataroots.io/research/contributions/hyper-parameter-tuning-with-optuna-tutorial)
 - [MLOps - tutorial (10/13/22)](https://dataroots.io/research/contributions/mlops-tutorial)
 - [Songs of the machines (2) - Harmonisation (10/10/22)](https://dataroots.io/research/contributions/ai-songcontest-2022-coconet)
 - [Snowflake + Snowpark Python = machine learning? (10/03/22)](https://dataroots.io/research/contributions/snowflake-ml)
 - [Face Mask Detection - tutorial (09/29/22)](https://dataroots.io/research/contributions/face-mask-detection)
-- [AI a catalyst for innovation (09/26/22)](https://dataroots.io/research/contributions/ai-a-catalyst-for-innovation)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
