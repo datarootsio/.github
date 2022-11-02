@@ -2,15 +2,15 @@
 <img src="https://dataroots.io/rectangle-symbol-rainbow.png" width=74 align="right">
 <h1 style="padding-top: 24px">🖖 Welcome to Dataroots' GitHub org</h1>
 
-[![youtube](./assets/youtube.png)](https://www.youtube.com/c/dataroots)
-[![meetup](./assets/meetup.png)](https://www.meetup.com/rootlabs-x/)
-[![web](./assets/www.png)](https://dataroots.io)
-[![blog](./assets/blogger.png)](https://dataroots.io/research/contributions)
-[![hugginface](./assets/hugginface.png)](https://huggingface.co/dataroots)
-[![instagram](./assets/instagram.png)](https://www.instagram.com/lifeatdataroots/)
-[![linkedin](./assets/linkedin.png)](https://www.linkedin.com/company/dataroots)
-[![twitter](./assets/twitter.png)](https://twitter.com/Datarootsio)
-[![email](./assets/email.png)](mailto:info@dataroots.io)
+[![youtube](https://github.com/datarootsio/.github/raw/main/profile/assets/youtube.png)](https://www.youtube.com/c/dataroots)
+[![meetup](https://github.com/datarootsio/.github/raw/main/profile/assets/meetup.png)](https://www.meetup.com/rootlabs-x/)
+[![web](https://github.com/datarootsio/.github/raw/main/profile/assets/www.png)](https://dataroots.io)
+[![blog](https://github.com/datarootsio/.github/raw/main/profile/assets/blogger.png)](https://dataroots.io/research/contributions)
+[![hugginface](https://github.com/datarootsio/.github/raw/main/profile/assets/hugginface.png)](https://huggingface.co/dataroots)
+[![instagram](https://github.com/datarootsio/.github/raw/main/profile/assets/instagram.png)](https://www.instagram.com/lifeatdataroots/)
+[![linkedin](https://github.com/datarootsio/.github/raw/main/profile/assets/linkedin.png)](https://www.linkedin.com/company/dataroots)
+[![twitter](https://github.com/datarootsio/.github/raw/main/profile/assets/twitter.png)](https://twitter.com/Datarootsio)
+[![email](https://github.com/datarootsio/.github/raw/main/profile/assets/email.png)](mailto:info@dataroots.io)
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
 
