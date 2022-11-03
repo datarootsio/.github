@@ -117,7 +117,6 @@ Our open positions:
 
 - [☀️Junior Business Developer](https://careers.dataroots.io/o/junior-business-developer)
 - [🎓 Stage Marketing & Communicatie](https://careers.dataroots.io/o/stage-marketing-communicatie)
-- [🎓 Internships](https://careers.dataroots.io/o/internships)
 - [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
