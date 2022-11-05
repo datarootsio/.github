@@ -115,12 +115,12 @@ cog.out(
 
 Our open positions:
 
-- [☀️Junior Business Developer](https://careers.dataroots.io/o/junior-business-developer)
 - [🎓 Stage Marketing & Communicatie](https://careers.dataroots.io/o/stage-marketing-communicatie)
 - [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
-- [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
+- [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
+- [🧱 Project Lead](https://careers.dataroots.io/o/project-lead)
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [📐 Cloud Architect](https://careers.dataroots.io/o/cloud-architect)
 - [📬  Spontaneous application](https://careers.dataroots.io/o/spontaneous-application)
