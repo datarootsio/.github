@@ -74,7 +74,6 @@ cog.out(
 
 Upcoming:
 
-- [11/08/22 - Brain Food: Getting started with dbt - part 1/2](https://www.eventbrite.be/e/brain-food-getting-started-with-dbt-part-12-tickets-403342356847)
 - [11/17/22 - Meetup: Rootsacademy Project](https://www.eventbrite.be/e/meetup-rootsacademy-project-tickets-405085781477)
 - [12/06/22 - Brain Food: Getting started with dbt - part 2/2](https://www.eventbrite.be/e/brain-food-getting-started-with-dbt-part-22-tickets-403923996547)
 
