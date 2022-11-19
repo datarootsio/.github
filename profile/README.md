@@ -74,7 +74,6 @@ cog.out(
 
 Upcoming:
 
-- [11/17/22 - Meetup: Rootsacademy Project](https://www.eventbrite.be/e/meetup-rootsacademy-project-tickets-405085781477)
 - [12/06/22 - Brain Food: Getting started with dbt - part 2/2](https://www.eventbrite.be/e/brain-food-getting-started-with-dbt-part-22-tickets-403923996547)
 
 Check out all our events at [dataroots.io/events/](https://dataroots.io/events/) or sign up to our [weekly digest](http://eepurl.com/gzXeR5) 👈
