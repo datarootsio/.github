@@ -92,11 +92,11 @@ cog.out(
 
 Our latest posts:
 
+- [Is the role of Chief Data Officer still hot or not? (11/23/22)](https://dataroots.io/research/contributions/is-the-role-of-chief-data-officer-still-hot-or-not)
 - [Real-Time Voice Cloning - tutorial (11/10/22)](https://dataroots.io/research/contributions/real-time-voice-cloning-tutorial)
 - [Hyper parameter tuning with Optuna - tutorial (10/27/22)](https://dataroots.io/research/contributions/hyper-parameter-tuning-with-optuna-tutorial)
 - [MLOps - tutorial (10/13/22)](https://dataroots.io/research/contributions/mlops-tutorial)
 - [Songs of the machines (2) - Harmonisation (10/10/22)](https://dataroots.io/research/contributions/ai-songcontest-2022-coconet)
-- [Snowflake + Snowpark Python = machine learning? (10/03/22)](https://dataroots.io/research/contributions/snowflake-ml)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
