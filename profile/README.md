@@ -35,6 +35,7 @@
 - [tutorial-mlops](https://github.com/datarootsio/tutorial-mlops): A tutorial to learn MLOps best practices with an example using DVC, pycaret and MLflow. <a href="https://colab.research.google.com/github/datarootsio/mlops-workshop/blob/main/notebooks/MLOps_Tutorial.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>, with its exercises <a href="https://colab.research.google.com/github/datarootsio/mlops-workshop/blob/main/notebooks/MLOps_Exercise.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 - [tutorial-hyperparameter-optimization](https://github.com/datarootsio/tutorial-hyperparameter-optimization): A tutorial to know about the latest hyperparameters optimization techniques. <a href="https://colab.research.google.com/drive/1fNzrF96E-Uhexdd0mFITsp-YpWZ2Mzwa" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 - [tutorial-streamlit-demo](https://github.com/datarootsio/tutorial-streamlit-demo): A demo of what you can do with streamlit.
+- [tutorial-anomalib-demo](https://github.com/datarootsio/anomalib-demo): A demo of what you can do with anomalib to detect anomalies in images.
 
 ## Templates
 
