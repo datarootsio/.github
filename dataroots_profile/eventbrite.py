@@ -70,7 +70,7 @@ def event2str(event: Event) -> str:
 def calendar2str(events: list[Event], n_events: int = 5) -> str:
     """Get a nice string with upcoming events for listing."""
     if not events:
-        raise ValueError(f"Expected list of posts, got {events}.")
+        print("No events found.")  # noqa: T201
     _events = "\n".join(
         event2str(post)
         for post in sorted(events[-n_events:], key=lambda e: e.start.local)
