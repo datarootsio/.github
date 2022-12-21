@@ -73,10 +73,6 @@ cog.out(
 ]]] -->
 ## Our events 🍻
 
-Upcoming:
-
-- [12/06/22 - Brain Food: Getting started with dbt - part 2/2](https://www.eventbrite.be/e/brain-food-getting-started-with-dbt-part-22-tickets-403923996547)
-
 Check out all our events at [dataroots.io/events/](https://dataroots.io/events/) or sign up to our [weekly digest](http://eepurl.com/gzXeR5) 👈
 <!-- [[[end]]] -->
 
@@ -93,11 +89,11 @@ cog.out(
 
 Our latest posts:
 
+- [Tips and tricks on how to setup an AWS infrastructure with Terraform for beginners (12/18/22)](https://dataroots.io/research/contributions/tips-and-tricks-on-how-to-setup-an-aws-infrastructure-with-terraform-for-beginners)
+- [Song of the machines (3) : Generating lyrics with musical context. (12/11/22)](https://dataroots.io/research/contributions/song-of-the-machines-3-generating-lyrics-with-musical-context)
 - [Tokyo Drift : detecting drift in images with NannyML and Whylogs (12/04/22)](https://dataroots.io/research/contributions/tokyo-drift-detecting-drift-in-images-with-nannyml-and-whylogs)
 - [Is the role of Chief Data Officer still hot or not? (11/23/22)](https://dataroots.io/research/contributions/is-the-role-of-chief-data-officer-still-hot-or-not)
 - [Real-Time Voice Cloning - tutorial (11/10/22)](https://dataroots.io/research/contributions/real-time-voice-cloning-tutorial)
-- [Hyper parameter tuning with Optuna - tutorial (10/27/22)](https://dataroots.io/research/contributions/hyper-parameter-tuning-with-optuna-tutorial)
-- [MLOps - tutorial (10/13/22)](https://dataroots.io/research/contributions/mlops-tutorial)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
@@ -123,7 +119,7 @@ Our open positions:
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [📐 Cloud Architect](https://careers.dataroots.io/o/cloud-architect)
 - [📬  Spontaneous application](https://careers.dataroots.io/o/spontaneous-application)
-- [🔍 Recruitment & Talent Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
+- [🔍 Talent Manager](https://careers.dataroots.io/o/talent-manager)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
