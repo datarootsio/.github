@@ -89,11 +89,11 @@ cog.out(
 
 Our latest posts:
 
+- [Song of the Machines (4): Digital Music Production (01/08/23)](https://dataroots.io/research/contributions/song-of-the-machines-4)
 - [Create your own Christmas miracle with AI generated art (12/22/22)](https://dataroots.io/research/contributions/create-your-own-christmas-miracle-with-ai-generated-art)
 - [Song of the machines (3) : Generating lyrics with musical context. (12/11/22)](https://dataroots.io/research/contributions/song-of-the-machines-3-generating-lyrics-with-musical-context)
 - [Tokyo Drift : detecting drift in images with NannyML and Whylogs (12/04/22)](https://dataroots.io/research/contributions/tokyo-drift-detecting-drift-in-images-with-nannyml-and-whylogs)
 - [Is the role of Chief Data Officer still hot or not? (11/23/22)](https://dataroots.io/research/contributions/is-the-role-of-chief-data-officer-still-hot-or-not)
-- [Real-Time Voice Cloning - tutorial (11/10/22)](https://dataroots.io/research/contributions/real-time-voice-cloning-tutorial)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
@@ -110,7 +110,6 @@ cog.out(
 
 Our open positions:
 
-- [🤖  Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
