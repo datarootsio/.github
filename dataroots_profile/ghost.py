@@ -41,7 +41,8 @@ def post2str(
     """Get a formatted string for markdown profile from posts information."""
     base_url = base_url.rstrip("/", 1)[0] if base_url.endswith("/") else base_url
     return (
-        f"- [{post.title} ({post.published_at.strftime('%x')})]({base_url}/{post.slug})"
+        f"- [{post.title} ({post.published_at.strftime('%d/%m/%Y')})]"
+        f"({base_url}/{post.slug})"
     )
 
 
