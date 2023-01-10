@@ -89,8 +89,8 @@ cog.out(
 
 Our latest posts:
 
-- [Song of the Machines (4): Digital Music Production (01/08/23)](https://dataroots.io/research/contributions/song-of-the-machines-4)
 - [Create your own Christmas miracle with AI generated art (12/22/22)](https://dataroots.io/research/contributions/create-your-own-christmas-miracle-with-ai-generated-art)
+- [Setting up AWS Infrastructure Using Terraform for Beginners (12/18/22)](https://dataroots.io/research/contributions/tips-and-tricks-on-how-to-setup-an-aws-infrastructure-with-terraform-for-beginners)
 - [Song of the machines (3) : Generating lyrics with musical context. (12/11/22)](https://dataroots.io/research/contributions/song-of-the-machines-3-generating-lyrics-with-musical-context)
 - [Tokyo Drift : detecting drift in images with NannyML and Whylogs (12/04/22)](https://dataroots.io/research/contributions/tokyo-drift-detecting-drift-in-images-with-nannyml-and-whylogs)
 - [Is the role of Chief Data Officer still hot or not? (11/23/22)](https://dataroots.io/research/contributions/is-the-role-of-chief-data-officer-still-hot-or-not)
