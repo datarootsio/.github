@@ -110,6 +110,7 @@ cog.out(
 
 Our open positions:
 
+- [🧑‍🔬 R&D Engineer](https://careers.dataroots.io/o/rd-engineer)
 - [🤖  Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [🛠 Junior Data Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
 - [⛅️  Junior Cloud Engineer](https://careers.dataroots.io/o/junior-cloud-engineer)
