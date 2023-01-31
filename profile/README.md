@@ -110,6 +110,7 @@ cog.out(
 
 Our open positions:
 
+- [🛠 Junior Software Engineer](https://careers.dataroots.io/o/junior-software-engineer)
 - [🧑‍🔬 R&D Engineer](https://careers.dataroots.io/o/rd-engineer)
 - [🤖  Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [🛠 Junior Data Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
@@ -120,7 +121,6 @@ Our open positions:
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🧱 Project Lead](https://careers.dataroots.io/o/project-lead)
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
-- [📐 Cloud Architect](https://careers.dataroots.io/o/cloud-architect)
 - [📬  Spontaneous application](https://careers.dataroots.io/o/spontaneous-application)
 - [🔍 Talent Manager](https://careers.dataroots.io/o/talent-manager)
 
