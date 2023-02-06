@@ -89,11 +89,11 @@ cog.out(
 
 Our latest posts:
 
+- [Song of the Machines (4): Digital Music Production (05/02/2023)](https://dataroots.io/research/contributions/song-of-the-machines-4)
 - [Anomaly detection in images using PatchCore (22/01/2023)](https://dataroots.io/research/contributions/anomaly-detection-in-images-using-patchcore)
 - [Rootsacademy project: Fixing a slow AWS Lambda function (15/01/2023)](https://dataroots.io/research/contributions/rootsacademy-project-fixing-a-slow-aws-lambda-function)
 - [Running Power (10/01/2023)](https://dataroots.io/research/contributions/running-power)
 - [Create your own Christmas miracle with AI generated art (22/12/2022)](https://dataroots.io/research/contributions/create-your-own-christmas-miracle-with-ai-generated-art)
-- [Setting up AWS Infrastructure Using Terraform for Beginners (18/12/2022)](https://dataroots.io/research/contributions/tips-and-tricks-on-how-to-setup-an-aws-infrastructure-with-terraform-for-beginners)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
