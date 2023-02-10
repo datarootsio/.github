@@ -122,7 +122,6 @@ Our open positions:
 - [🧱 Project Lead](https://careers.dataroots.io/o/project-lead)
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [📬  Spontaneous application](https://careers.dataroots.io/o/spontaneous-application)
-- [🔍 Talent Manager](https://careers.dataroots.io/o/talent-manager)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
