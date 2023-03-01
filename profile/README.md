@@ -110,12 +110,12 @@ cog.out(
 
 Our open positions:
 
-- [🧑‍🔬 R&D Engineer](https://careers.dataroots.io/o/rd-engineer)
+- [🛠 Experienced Analytics Engineer](https://careers.dataroots.io/o/experienced-analytics-engineer)
+- [🛠 Experienced Data Engineer 🇳🇱](https://careers.dataroots.io/o/experienced-data-engineer-maastricht)
 - [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
-- [🧱 Project Lead](https://careers.dataroots.io/o/project-lead)
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [📬  Spontaneous application](https://careers.dataroots.io/o/spontaneous-application)
 
