@@ -89,11 +89,11 @@ cog.out(
 
 Our latest posts:
 
+- [Quantitatively measuring speech quality and training a text-to-speech model for Flemish Dutch (05/03/2023)](https://dataroots.io/research/contributions/text-to-speech-in-flemish)
 - [Is edge computing just a buzzword? (26/02/2023)](https://dataroots.io/research/contributions/working-on-the-edge)
 - [Changepoint detection with Prophet (19/02/2023)](https://dataroots.io/research/contributions/changepoint-detection-with-prophet-2)
 - [Song of the Machines (4): Digital Music Production (05/02/2023)](https://dataroots.io/research/contributions/song-of-the-machines-4)
 - [Anomaly detection in images using PatchCore (22/01/2023)](https://dataroots.io/research/contributions/anomaly-detection-in-images-using-patchcore)
-- [Rootsacademy project: Fixing a slow AWS Lambda function (15/01/2023)](https://dataroots.io/research/contributions/rootsacademy-project-fixing-a-slow-aws-lambda-function)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
