@@ -110,7 +110,9 @@ cog.out(
 
 Our open positions:
 
-- [📬  Spontaneous application](https://careers.dataroots.io/o/spontaneous-application)
+- [🤖  Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
+- [🛠 Junior Data Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
+- [🤝Junior Data Strategy Consultant](https://careers.dataroots.io/o/junior-data-strategy-consultant)
 - [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
