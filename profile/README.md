@@ -110,18 +110,19 @@ cog.out(
 
 Our open positions:
 
-- [🤖  Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
-- [🛠 Junior Data Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
-- [🤝Junior Data Strategy Consultant](https://careers.dataroots.io/o/junior-data-strategy-consultant)
-- [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
-- [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
-- [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
 - [🕹 Tech Lead Data & Cloud](https://careers.dataroots.io/o/tech-lead-data-cloud)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠 Experienced Data Engineer 🇳🇱](https://careers.dataroots.io/o/experienced-data-engineer-maastricht)
 - [🛠 Experienced Data Engineer 🇪🇸](https://careers.dataroots.io/o/experienced-data-engineer-malaga-hybrid-remote)
 - [🛠 Experienced Analytics Engineer](https://careers.dataroots.io/o/experienced-analytics-engineer)
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
+- [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
+- [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
+- [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
+- [🤝  Data Governance Consultant](https://careers.dataroots.io/o/data-governance-consultant)
+- [🛠 Junior Data Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
+- [🤝Junior Data Strategy Consultant](https://careers.dataroots.io/o/junior-data-strategy-consultant)
+- [🤖  Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
