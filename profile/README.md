@@ -110,6 +110,7 @@ cog.out(
 
 Our open positions:
 
+- [🎓 Internships](https://careers.dataroots.io/o/internships-leuven-gent)
 - [🕹 Tech Lead Data & Cloud](https://careers.dataroots.io/o/tech-lead-data-cloud)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠 Experienced Data Engineer 🇳🇱](https://careers.dataroots.io/o/experienced-data-engineer-maastricht)
