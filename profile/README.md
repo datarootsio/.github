@@ -89,11 +89,11 @@ cog.out(
 
 Our latest posts:
 
+- [From doodle to bedazzled - with generative AI (18/04/2023)](https://dataroots.io/research/contributions/from-doodle-to-bedazzled-with-generative-ai)
 - [GPT4 - Unlocking the power of multimodal learning: overcoming challenges and harnessing opportunities (14/04/2023)](https://dataroots.io/research/contributions/gpt4-multimodality)
 - [Using Twitter to predict Covid infections in Belgium (02/04/2023)](https://dataroots.io/research/contributions/is-it-possible-to-predict-disease-spread-based-on-digital-trace-data)
 - [SOS - RuntimeError: CUDA Out of memory (27/03/2023)](https://dataroots.io/research/contributions/runtimeerror-cuda-out-of-memory)
 - [A gentle introduction to blockchain (19/03/2023)](https://dataroots.io/research/contributions/a-gentle-introduction-to-blockchain)
-- [Quantitatively measuring speech quality and training a text-to-speech model for Flemish Dutch (05/03/2023)](https://dataroots.io/research/contributions/text-to-speech-in-flemish)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
@@ -114,7 +114,6 @@ Our open positions:
 - [🕹 Tech Lead Data & Cloud](https://careers.dataroots.io/o/tech-lead-data-cloud)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠 Experienced Data Engineer 🇳🇱](https://careers.dataroots.io/o/experienced-data-engineer-maastricht)
-- [🛠 Experienced Data Engineer 🇪🇸](https://careers.dataroots.io/o/experienced-data-engineer-malaga-hybrid-remote)
 - [🛠 Experienced Analytics Engineer](https://careers.dataroots.io/o/experienced-analytics-engineer)
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
