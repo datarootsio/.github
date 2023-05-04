@@ -120,8 +120,6 @@ Our open positions:
 - [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
-- [🛠 Junior Data Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
-- [🤝Junior Data Strategy Consultant](https://careers.dataroots.io/o/junior-data-strategy-consultant)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
