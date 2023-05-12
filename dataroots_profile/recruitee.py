@@ -44,7 +44,7 @@ Our open positions:
 
 {_offers}
 
-For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈"""
+For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈""",
     )
 
 

@@ -39,7 +39,9 @@ class Event:
 
 
 def events(
-    key: str, filter_status: Status = Status.live, org_id: int = 813260157363
+    key: str,
+    filter_status: Status = Status.live,
+    org_id: int = 813260157363,
 ) -> list[Event]:
     """Retrieve events from Eventbrite."""
     response = requests.get(
@@ -82,7 +84,7 @@ def calendar2str(events: list[Event], n_events: int = 5) -> str:
 ## Our events 🍻
 {_upcoming}
 Check out all our events at [dataroots.io/events/](https://dataroots.io/events/)\
- or sign up to our [weekly digest](http://eepurl.com/gzXeR5) 👈"""
+ or sign up to our [weekly digest](http://eepurl.com/gzXeR5) 👈""",
     )
 
 

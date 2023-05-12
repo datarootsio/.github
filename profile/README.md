@@ -39,8 +39,9 @@
 
 ## Templates
 
-- [ml-skeleton-py](https://github.com/datarootsio/ml-skeleton-py): An opinionated project template that allows you to get started on a new machine learning project.
-- [skeleton-pyspark](https://github.com/datarootsio/skeleton-pyspark): An opinionated project template that allows you to get started on an ETL job with PySpark.
+- [ml-skeleton-py](https://github.com/datarootsio/ml-skeleton-py): An opinionated project template that allows you to get started on a new machine learning project
+- [python-minimal-boilerplate](https://github.com/datarootsio/python-minimal-boilerplate): A minimal-yet-opinionated project template to kickstart a new Python project
+- [skeleton-pyspark](https://github.com/datarootsio/skeleton-pyspark): An opinionated project template that allows you to get started on an ETL job with PySpark
 
 ## Models
 
@@ -59,6 +60,7 @@
 - [cheek](https://github.com/datarootsio/cheek): Crontab-like scHeduler for Effective Execution of tasKs, cheek for short
 - [phonehome](https://github.com/datarootsio/phonehome): KISS telemetry for FOSS packages
 - [expiring-lru-cache](https://github.com/datarootsio/expiring-lru-cache): LRU caching with expiration period
+- [nbdefs2py](https://github.com/datarootsio/nbdefs2py): extract functions and classes from notebooks
 - [rootsstyle](https://github.com/datarootsio/rootsstyle): a dataroots inspired style for Matplotlib
 - [artyfarty](https://github.com/datarootsio/artyfarty): ggplot2 theme + palette presets
 

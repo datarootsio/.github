@@ -28,7 +28,8 @@ def posts(key: str, admin_domain: str = "dataroots.ghost.io") -> list[Post]:
             title=post["title"],
             slug=post["slug"],
             published_at=datetime.strptime(
-                post["published_at"], "%Y-%m-%dT%H:%M:%S.%f+00:00"
+                post["published_at"],
+                "%Y-%m-%dT%H:%M:%S.%f+00:00",
             ),
         )
         for post in response.json().get("posts", [])
@@ -36,7 +37,9 @@ def posts(key: str, admin_domain: str = "dataroots.ghost.io") -> list[Post]:
 
 
 def post2str(
-    post: Post, *, base_url: str = "https://dataroots.io/research/contributions"
+    post: Post,
+    *,
+    base_url: str = "https://dataroots.io/research/contributions",
 ) -> str:
     """Get a formatted string for markdown profile from posts information."""
     base_url = base_url.rstrip("/", 1)[0] if base_url.endswith("/") else base_url
@@ -63,7 +66,7 @@ Our latest posts:
 {_posts}
 
 Check out all our posts at [dataroots.io/research/contributions/]\
-(https://dataroots.io/research/contributions/) 👈"""
+(https://dataroots.io/research/contributions/) 👈""",
     )
 
 
