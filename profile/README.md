@@ -75,6 +75,10 @@ cog.out(
 ]]] -->
 ## Our events 🍻
 
+Upcoming:
+
+- [06/08/23 - Data & AI legislation event](https://www.eventbrite.be/e/data-ai-legislation-event-tickets-633222083297)
+
 Check out all our events at [dataroots.io/events/](https://dataroots.io/events/) or sign up to our [weekly digest](http://eepurl.com/gzXeR5) 👈
 <!-- [[[end]]] -->
 
@@ -91,11 +95,11 @@ cog.out(
 
 Our latest posts:
 
+- [Cloud-native framework for federated learning, designed with privacy and security at its core (08/05/2023)](https://dataroots.io/research/contributions/cloud-native-framework-for-federated-learning-designed-with-privacy-and-security-at-its-core)
 - [What is data circularity, and why should you care? (01/05/2023)](https://dataroots.io/research/contributions/what-is-data-circularity-and-why-should-you-care)
 - [From doodle to bedazzled - with generative AI (18/04/2023)](https://dataroots.io/research/contributions/from-doodle-to-bedazzled-with-generative-ai)
 - [GPT4 - Unlocking the power of multimodal learning: overcoming challenges and harnessing opportunities (14/04/2023)](https://dataroots.io/research/contributions/gpt4-multimodality)
 - [Using Twitter to predict Covid infections in Belgium (02/04/2023)](https://dataroots.io/research/contributions/is-it-possible-to-predict-disease-spread-based-on-digital-trace-data)
-- [SOS - RuntimeError: CUDA Out of memory (27/03/2023)](https://dataroots.io/research/contributions/runtimeerror-cuda-out-of-memory)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
@@ -119,7 +123,6 @@ Our open positions:
 - [🛠 Experienced Analytics Engineer](https://careers.dataroots.io/o/experienced-analytics-engineer)
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
-- [📊  Data Analyst](https://careers.dataroots.io/o/data-analyst)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
 
