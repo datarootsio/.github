@@ -95,11 +95,11 @@ cog.out(
 
 Our latest posts:
 
+- [Was the weather beginning of May 2023 normal? Let's visualize the data (16/05/2023)](https://dataroots.io/research/contributions/is-the-wheater-abnormal)
 - [Cloud-native framework for federated learning, designed with privacy and security at its core (08/05/2023)](https://dataroots.io/research/contributions/cloud-native-framework-for-federated-learning-designed-with-privacy-and-security-at-its-core)
 - [What is data circularity, and why should you care? (01/05/2023)](https://dataroots.io/research/contributions/what-is-data-circularity-and-why-should-you-care)
 - [From doodle to bedazzled - with generative AI (18/04/2023)](https://dataroots.io/research/contributions/from-doodle-to-bedazzled-with-generative-ai)
 - [GPT4 - Unlocking the power of multimodal learning: overcoming challenges and harnessing opportunities (14/04/2023)](https://dataroots.io/research/contributions/gpt4-multimodality)
-- [Using Twitter to predict Covid infections in Belgium (02/04/2023)](https://dataroots.io/research/contributions/is-it-possible-to-predict-disease-spread-based-on-digital-trace-data)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
