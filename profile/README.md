@@ -57,13 +57,14 @@
 
 ## Open source packages
 
-- [databooks](https://github.com/datarootsio/databooks): for sharing and caring about Jupyter notebooks ❤️
+- [artyfarty](https://github.com/datarootsio/artyfarty): ggplot2 theme + palette presets
 - [cheek](https://github.com/datarootsio/cheek): Crontab-like scHeduler for Effective Execution of tasKs, cheek for short
-- [phonehome](https://github.com/datarootsio/phonehome): KISS telemetry for FOSS packages
+- [databooks](https://github.com/datarootsio/databooks): for sharing and caring about Jupyter notebooks ❤️
 - [expiring-lru-cache](https://github.com/datarootsio/expiring-lru-cache): LRU caching with expiration period
 - [nbdefs2py](https://github.com/datarootsio/nbdefs2py): extract functions and classes from notebooks
+- [phonehome](https://github.com/datarootsio/phonehome): KISS telemetry for FOSS packages
 - [rootsstyle](https://github.com/datarootsio/rootsstyle): a dataroots inspired style for Matplotlib
-- [artyfarty](https://github.com/datarootsio/artyfarty): ggplot2 theme + palette presets
+- [tf-profile](https://github.com/datarootsio/tf-profile): CLI tool to profile Terraform runs, written in Go
 
 <!-- [[[cog
 import os
