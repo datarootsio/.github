@@ -97,11 +97,11 @@ cog.out(
 
 Our latest posts:
 
+- [From MLOps to LLMOps - what's the difference? (22/05/2023)](https://dataroots.io/research/contributions/from-mlops-to-llmops-whats-the-difference)
 - [Applying a MLOps approach to Federated learning using ML Flow with NV Flare: A Healthcare use case (21/05/2023)](https://dataroots.io/research/contributions/federated-learning-for-healthcare-a-privacy-preserving-solution)
 - [From Pandora's Box to the Genie's Lamp: Overcoming Challenges in Enterprise Adoption of Large-Language Models (17/05/2023)](https://dataroots.io/research/contributions/a-glimpse-at-open-challenges-for-the-implementation-of-enterprise-ready-llmops-with-dataroots-talan-research)
 - [Was the weather beginning of May 2023 normal? Let's visualize the data (16/05/2023)](https://dataroots.io/research/contributions/is-the-wheater-abnormal)
 - [Cloud-native framework for federated learning, designed with privacy and security at its core (08/05/2023)](https://dataroots.io/research/contributions/cloud-native-framework-for-federated-learning-designed-with-privacy-and-security-at-its-core)
-- [What is data circularity, and why should you care? (01/05/2023)](https://dataroots.io/research/contributions/what-is-data-circularity-and-why-should-you-care)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
@@ -119,7 +119,7 @@ cog.out(
 Our open positions:
 
 - [🎓 Internships](https://careers.dataroots.io/o/internships-leuven-gent)
-- [🔍 Talent Manager](https://careers.dataroots.io/o/talent-manager)
+- [🔍 Recruitment & Talent Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
 - [🕹 Tech Lead Data & Cloud](https://careers.dataroots.io/o/tech-lead-data-cloud)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠 Experienced Data Engineer 🇳🇱](https://careers.dataroots.io/o/experienced-data-engineer-maastricht)
