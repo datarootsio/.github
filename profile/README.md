@@ -60,6 +60,7 @@
 - [artyfarty](https://github.com/datarootsio/artyfarty): ggplot2 theme + palette presets
 - [cheek](https://github.com/datarootsio/cheek): Crontab-like scHeduler for Effective Execution of tasKs, cheek for short
 - [databooks](https://github.com/datarootsio/databooks): for sharing and caring about Jupyter notebooks ❤️
+- [dbt-fabric](https://github.com/datarootsio/dbt-fabric): dbt adapter for Microsoft Fabric Data Warehouses
 - [expiring-lru-cache](https://github.com/datarootsio/expiring-lru-cache): LRU caching with expiration period
 - [nbdefs2py](https://github.com/datarootsio/nbdefs2py): extract functions and classes from notebooks
 - [phonehome](https://github.com/datarootsio/phonehome): KISS telemetry for FOSS packages
