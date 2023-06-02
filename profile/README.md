@@ -98,11 +98,11 @@ cog.out(
 
 Our latest posts:
 
+- [Artificial General Intelligence: The Quest for an ultimate invention - Experts opinion (01/06/2023)](https://dataroots.io/research/contributions/artificial-general-intelligence-the-quest-for-a-thinking-machine)
 - [How Open is Open Data? (28/05/2023)](https://dataroots.io/research/contributions/how-open-is-open-data)
 - [LLMOps, GenerativeOps or AgentOps? Distinguishing the challenges in contemporary LLMOps (28/05/2023)](https://dataroots.io/research/contributions/llmops-generativeops-or-agentops-distinguishing-the-challenges-in-contemporary-llmops)
 - [From MLOps to LLMOps - what's the difference? (22/05/2023)](https://dataroots.io/research/contributions/from-mlops-to-llmops-whats-the-difference)
 - [Applying a MLOps approach to Federated learning using ML Flow with NV Flare: A Healthcare use case (21/05/2023)](https://dataroots.io/research/contributions/federated-learning-for-healthcare-a-privacy-preserving-solution)
-- [From Pandora's Box to the Genie's Lamp: Overcoming Challenges in Enterprise Adoption of Large-Language Models (17/05/2023)](https://dataroots.io/research/contributions/a-glimpse-at-open-challenges-for-the-implementation-of-enterprise-ready-llmops-with-dataroots-talan-research)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
