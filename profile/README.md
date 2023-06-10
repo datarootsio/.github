@@ -78,10 +78,6 @@ cog.out(
 ]]] -->
 ## Our events 🍻
 
-Upcoming:
-
-- [06/08/23 - Data & AI legislation event](https://www.eventbrite.be/e/data-ai-legislation-event-tickets-633222083297)
-
 Check out all our events at [dataroots.io/events/](https://dataroots.io/events/) or sign up to our [weekly digest](http://eepurl.com/gzXeR5) 👈
 <!-- [[[end]]] -->
 
@@ -98,11 +94,11 @@ cog.out(
 
 Our latest posts:
 
+- [The Power of AI in Songwriting: Creating a Sensational Hit for Niels Destadsbader (08/06/2023)](https://dataroots.io/research/contributions/the-power-of-ai-in-songwriting-creating-a-sensational-hit-for-niels-destadsbader)
 - [Managing Federated Learning Infrastructure with Terraform and Azure (04/06/2023)](https://dataroots.io/research/contributions/managing-federated-learning-infrastructure-with-terraform)
 - [Artificial General Intelligence: The Quest for an ultimate invention - Experts opinion (01/06/2023)](https://dataroots.io/research/contributions/artificial-general-intelligence-the-quest-for-a-thinking-machine)
 - [How Open is Open Data? (28/05/2023)](https://dataroots.io/research/contributions/how-open-is-open-data)
 - [LLMOps, GenerativeOps or AgentOps? Distinguishing the challenges in contemporary LLMOps (28/05/2023)](https://dataroots.io/research/contributions/llmops-generativeops-or-agentops-distinguishing-the-challenges-in-contemporary-llmops)
-- [From MLOps to LLMOps - what's the difference? (22/05/2023)](https://dataroots.io/research/contributions/from-mlops-to-llmops-whats-the-difference)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
