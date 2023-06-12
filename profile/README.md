@@ -94,11 +94,11 @@ cog.out(
 
 Our latest posts:
 
+- [Kickstart your next Python project 🚀 (11/06/2023)](https://dataroots.io/research/contributions/python-project-checklist)
 - [The Power of AI in Songwriting: Creating a Sensational Hit for Niels Destadsbader (08/06/2023)](https://dataroots.io/research/contributions/the-power-of-ai-in-songwriting-creating-a-sensational-hit-for-niels-destadsbader)
 - [Managing Federated Learning Infrastructure with Terraform and Azure (04/06/2023)](https://dataroots.io/research/contributions/managing-federated-learning-infrastructure-with-terraform)
 - [Artificial General Intelligence: The Quest for an ultimate invention - Experts opinion (01/06/2023)](https://dataroots.io/research/contributions/artificial-general-intelligence-the-quest-for-a-thinking-machine)
 - [How Open is Open Data? (28/05/2023)](https://dataroots.io/research/contributions/how-open-is-open-data)
-- [LLMOps, GenerativeOps or AgentOps? Distinguishing the challenges in contemporary LLMOps (28/05/2023)](https://dataroots.io/research/contributions/llmops-generativeops-or-agentops-distinguishing-the-challenges-in-contemporary-llmops)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
