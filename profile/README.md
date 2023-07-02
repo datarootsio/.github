@@ -94,11 +94,11 @@ cog.out(
 
 Our latest posts:
 
+- [Data preparation for a Q&A application powered by LLM (01/07/2023)](https://dataroots.io/research/contributions/aiden-data-ingestion)
 - [6 x 6 ways to engage with your data community (28/06/2023)](https://dataroots.io/research/contributions/6-x-6-ways-to-engage-with-your-local-data-community)
 - [Fine-tuning BERT for an unbalanced multi-class classification problem (25/06/2023)](https://dataroots.io/research/contributions/incident-team-prediction)
 - [Herding the flock with MotherDuck: your next data warehouse? (22/06/2023)](https://dataroots.io/research/contributions/herding-the-flock-with-motherduck-your-next-data-warehouse)
 - [Introducing a prototype LLM API Starter Kit (21/06/2023)](https://dataroots.io/research/contributions/deploy-and-harness-large-language-models-in-minutes-our-llm-api-starter-kit)
-- [Streamlining Data Exploration: A Comparison of Profiling Tools for Effective EDA (18/06/2023)](https://dataroots.io/research/contributions/streamlining-data-exploration-a-comparison-of-pandas-profiler-sweet-viz-and-pandas-gui-for-effective-eda)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
