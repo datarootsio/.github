@@ -94,7 +94,7 @@ cog.out(
 
 Our latest posts:
 
-- [Data preparation for a Q&A application powered by LLM (01/07/2023)](https://dataroots.io/research/contributions/aiden-data-ingestion)
+- [Data preparation for a Q&A application powered by LLMs (01/07/2023)](https://dataroots.io/research/contributions/aiden-data-ingestion)
 - [6 x 6 ways to engage with your data community (28/06/2023)](https://dataroots.io/research/contributions/6-x-6-ways-to-engage-with-your-local-data-community)
 - [Fine-tuning BERT for an unbalanced multi-class classification problem (25/06/2023)](https://dataroots.io/research/contributions/incident-team-prediction)
 - [Herding the flock with MotherDuck: your next data warehouse? (22/06/2023)](https://dataroots.io/research/contributions/herding-the-flock-with-motherduck-your-next-data-warehouse)
