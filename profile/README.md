@@ -94,11 +94,11 @@ cog.out(
 
 Our latest posts:
 
+- [Data Spaces: Unlocking the Power of Connected Information (16/07/2023)](https://dataroots.io/research/contributions/data-space)
 - [Microsoft Fabric's Auto Discovery: a closer look (13/07/2023)](https://dataroots.io/research/contributions/microsoft-fabrics-auto-discovery-a-closer-look)
 - [How to win your first Kaggle competition? (09/07/2023)](https://dataroots.io/research/contributions/how-to-win-your-first-kaggle-competition)
 - [Exploring OneLake with Microsoft Azure Storage Explorer (05/07/2023)](https://dataroots.io/research/contributions/exploring-onelake-with-microsoft-azure-storage-explorer)
 - [Data preparation for a Q&A application powered by LLMs (01/07/2023)](https://dataroots.io/research/contributions/aiden-data-ingestion)
-- [6 x 6 ways to engage with your data community (28/06/2023)](https://dataroots.io/research/contributions/6-x-6-ways-to-engage-with-your-local-data-community)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
