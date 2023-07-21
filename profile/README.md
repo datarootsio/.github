@@ -94,11 +94,11 @@ cog.out(
 
 Our latest posts:
 
+- [Preparing a migration to Microsoft Fabric: from Azure Synapse Serverless SQL (20/07/2023)](https://dataroots.io/research/contributions/preparing-a-migration-to-microsoft-fabric-from-azure-synapse-serverless-sql)
 - [Comprehensive analytics engineering offering to enhance speed-to-insight (18/07/2023)](https://dataroots.io/research/contributions/comprehensive-analytics-engineering-offering-to-enhance-speed-to-insight)
 - [Data Spaces: Unlocking the Power of Connected Information (16/07/2023)](https://dataroots.io/research/contributions/data-space)
 - [Microsoft Fabric's Auto Discovery: a closer look (13/07/2023)](https://dataroots.io/research/contributions/microsoft-fabrics-auto-discovery-a-closer-look)
 - [How to win your first Kaggle competition? (09/07/2023)](https://dataroots.io/research/contributions/how-to-win-your-first-kaggle-competition)
-- [Exploring OneLake with Microsoft Azure Storage Explorer (05/07/2023)](https://dataroots.io/research/contributions/exploring-onelake-with-microsoft-azure-storage-explorer)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
