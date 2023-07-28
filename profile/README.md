@@ -94,11 +94,11 @@ cog.out(
 
 Our latest posts:
 
+- [Connect to Fabric Lakehouses & Warehouses from Python code (27/07/2023)](https://dataroots.io/research/contributions/connect-to-fabric-lakehouses-warehouses-from-python-code)
 - [PySpark, Dask or Ray, how to scale your python workloads? (23/07/2023)](https://dataroots.io/research/contributions/pyspark-dask-or-ray)
 - [Preparing a migration to Microsoft Fabric: from Azure Synapse Serverless SQL (20/07/2023)](https://dataroots.io/research/contributions/preparing-a-migration-to-microsoft-fabric-from-azure-synapse-serverless-sql)
 - [Comprehensive analytics engineering offering to enhance speed-to-insight (18/07/2023)](https://dataroots.io/research/contributions/comprehensive-analytics-engineering-offering-to-enhance-speed-to-insight)
 - [Data Spaces: Unlocking the Power of Connected Information (16/07/2023)](https://dataroots.io/research/contributions/data-space)
-- [Microsoft Fabric's Auto Discovery: a closer look (13/07/2023)](https://dataroots.io/research/contributions/microsoft-fabrics-auto-discovery-a-closer-look)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
