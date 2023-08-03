@@ -62,6 +62,7 @@
 - [databooks](https://github.com/datarootsio/databooks): for sharing and caring about Jupyter notebooks ❤️
 - [dbt-fabric](https://github.com/datarootsio/dbt-fabric): dbt adapter for Microsoft Fabric Data Warehouses
 - [expiring-lru-cache](https://github.com/datarootsio/expiring-lru-cache): LRU caching with expiration period
+- [github-stats-card](https://github.com/datarootsio/github-stats-card):  ⭐️ a minimal but inclusive github stats badge ⭐️
 - [nbdefs2py](https://github.com/datarootsio/nbdefs2py): extract functions and classes from notebooks
 - [phonehome](https://github.com/datarootsio/phonehome): KISS telemetry for FOSS packages
 - [rootsstyle](https://github.com/datarootsio/rootsstyle): a dataroots inspired style for Matplotlib
