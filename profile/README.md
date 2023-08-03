@@ -94,11 +94,11 @@ cog.out(
 
 Our latest posts:
 
+- [Evaluating large language model applications with LLM-augmented feedback (02/08/2023)](https://dataroots.io/research/contributions/evaluating-llm)
 - [Transforming Tabular Data in Python (30/07/2023)](https://dataroots.io/research/contributions/transforming-tabular-data-in-python)
 - [Connect to Fabric Lakehouses & Warehouses from Python code (27/07/2023)](https://dataroots.io/research/contributions/connect-to-fabric-lakehouses-warehouses-from-python-code)
 - [PySpark, Dask or Ray, how to scale your python workloads? (23/07/2023)](https://dataroots.io/research/contributions/pyspark-dask-or-ray)
 - [Preparing a migration to Microsoft Fabric: from Azure Synapse Serverless SQL (20/07/2023)](https://dataroots.io/research/contributions/preparing-a-migration-to-microsoft-fabric-from-azure-synapse-serverless-sql)
-- [Comprehensive analytics engineering offering to enhance speed-to-insight (18/07/2023)](https://dataroots.io/research/contributions/comprehensive-analytics-engineering-offering-to-enhance-speed-to-insight)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
@@ -120,8 +120,8 @@ Our open positions:
 - [🔍 Recruitment & Talent Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
 - [🕹 Tech Lead Data & Cloud](https://careers.dataroots.io/o/tech-lead-data-cloud)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
-- [🛠 Experienced Analytics Engineer](https://careers.dataroots.io/o/experienced-analytics-engineer)
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
+- [🛠 Experienced Analytics Engineer](https://careers.dataroots.io/o/experienced-analytics-engineer)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
