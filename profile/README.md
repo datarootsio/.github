@@ -95,11 +95,11 @@ cog.out(
 
 Our latest posts:
 
+- [Recovering the ink of Herculaneum using neural networks (06/08/2023)](https://dataroots.io/research/contributions/vesuvius-challenge-predicting-ink-in-x-ray-data-of-papyrus)
 - [Migrating Azure Synapse Dedicated SQL to Microsoft Fabric (03/08/2023)](https://dataroots.io/research/contributions/migrating-azure-synapse-dedicated-sql-to-microsoft-fabric)
 - [Evaluating large language model applications with LLM-augmented feedback (02/08/2023)](https://dataroots.io/research/contributions/evaluating-llm)
 - [Transforming Tabular Data in Python (30/07/2023)](https://dataroots.io/research/contributions/transforming-tabular-data-in-python)
 - [Connect to Fabric Lakehouses & Warehouses from Python code (27/07/2023)](https://dataroots.io/research/contributions/connect-to-fabric-lakehouses-warehouses-from-python-code)
-- [PySpark, Dask or Ray, how to scale your python workloads? (23/07/2023)](https://dataroots.io/research/contributions/pyspark-dask-or-ray)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
