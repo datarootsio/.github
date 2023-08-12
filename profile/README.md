@@ -118,7 +118,6 @@ Our open positions:
 
 - [🎓 Internships](https://careers.dataroots.io/o/internships-leuven-gent)
 - [🔍 Recruitment & Talent Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
-- [🕹 Tech Lead Data & Cloud](https://careers.dataroots.io/o/tech-lead-data-cloud)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [🛠 Experienced Analytics Engineer](https://careers.dataroots.io/o/experienced-analytics-engineer)
