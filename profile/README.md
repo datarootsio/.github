@@ -95,11 +95,11 @@ cog.out(
 
 Our latest posts:
 
+- [How to use Whisper, Open AI and ChatGPT to improve inclusivity with an intelligent voice assistant in the On Wheels app (13/08/2023)](https://dataroots.io/research/contributions/on-wheels)
 - [A closer look at Microsoft Fabric pricing, billing, and autoscaling (10/08/2023)](https://dataroots.io/research/contributions/a-closer-look-at-microsoft-fabric-pricing-billing-and-autoscaling)
 - [Recovering the ink of Herculaneum using neural networks (06/08/2023)](https://dataroots.io/research/contributions/vesuvius-challenge-predicting-ink-in-x-ray-data-of-papyrus)
 - [Migrating Azure Synapse Dedicated SQL to Microsoft Fabric (03/08/2023)](https://dataroots.io/research/contributions/migrating-azure-synapse-dedicated-sql-to-microsoft-fabric)
 - [Evaluating large language model applications with LLM-augmented feedback (02/08/2023)](https://dataroots.io/research/contributions/evaluating-llm)
-- [Transforming Tabular Data in Python (30/07/2023)](https://dataroots.io/research/contributions/transforming-tabular-data-in-python)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
