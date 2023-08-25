@@ -95,11 +95,11 @@ cog.out(
 
 Our latest posts:
 
+- [Let Fabric teach you how to code with Data Wrangler (24/08/2023)](https://dataroots.io/research/contributions/let-fabric-teach-you-how-to-code-with-data-wrangler)
 - [Best Practices for Data Engineering on Google Cloud Platforms (20/08/2023)](https://dataroots.io/research/contributions/how-to-extract-demographic-information-from-social-media-data)
 - [How to use service principal authentication to access Microsoft Fabric's OneLake (17/08/2023)](https://dataroots.io/research/contributions/how-to-use-service-principal-authentication-to-access-microsoft-fabrics-onelake)
 - [Enhancing Data Consistency in AI-powered Q&A Systems (16/08/2023)](https://dataroots.io/research/contributions/data-consistency-llm)
 - [How to use Whisper, Open AI and ChatGPT to improve inclusivity with an intelligent voice assistant in the On Wheels app (13/08/2023)](https://dataroots.io/research/contributions/on-wheels)
-- [A closer look at Microsoft Fabric pricing, billing, and autoscaling (10/08/2023)](https://dataroots.io/research/contributions/a-closer-look-at-microsoft-fabric-pricing-billing-and-autoscaling)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
