@@ -95,11 +95,11 @@ cog.out(
 
 Our latest posts:
 
+- [Fabric end-to-end use case: Data Engineering part 2 - Pipelines (14/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-data-engineering-part-2-pipelines)
 - [Building Data Mesh Architectures with Dataflow on Google Cloud (10/09/2023)](https://dataroots.io/research/contributions/real-time-streaming-analytics-with-google-cloud-pub-sub-and-dataflow-a-comprehensive-guide-for-data-and-ml-engineers)
 - [Fabric end-to-end use case: Data Engineering part 1 - Spark and Pandas in Notebooks (07/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-data-engineering-part-1-spark-and-pandas-in-notebooks)
 - [Data Warehousing Made Easy: Leveraging Google BigQuery for Seamless Analytics (03/09/2023)](https://dataroots.io/research/contributions/leveraging-google-bigquery-for-data-warehousing)
 - [Fabric end-to-end use case: overview & architecture (31/08/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-overview-architecture)
-- [Best Practices for Selecting a Database on Google Cloud Platform (27/08/2023)](https://dataroots.io/research/contributions/best-practices-for-choosing-a-database-on-google-cloud-platform-gcp)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
