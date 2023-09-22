@@ -95,11 +95,11 @@ cog.out(
 
 Our latest posts:
 
+- [Fabric end-to-end use case: Analytics Engineering part 1 - dbt with the Lakehouse (21/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-analytics-engineering-part-1-dbt-with-the-lakehouse)
 - [Data Quality and Governance in Google Cloud: Data Catalog vs Dataplex (17/09/2023)](https://dataroots.io/research/contributions/data-quality-and-governance-in-google-cloud)
 - [Fabric end-to-end use case: Data Engineering part 2 - Pipelines (14/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-data-engineering-part-2-pipelines)
 - [Building Data Mesh Architectures with Dataflow on Google Cloud (10/09/2023)](https://dataroots.io/research/contributions/real-time-streaming-analytics-with-google-cloud-pub-sub-and-dataflow-a-comprehensive-guide-for-data-and-ml-engineers)
 - [Fabric end-to-end use case: Data Engineering part 1 - Spark and Pandas in Notebooks (07/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-data-engineering-part-1-spark-and-pandas-in-notebooks)
-- [Data Warehousing Made Easy: Leveraging Google BigQuery for Seamless Analytics (03/09/2023)](https://dataroots.io/research/contributions/leveraging-google-bigquery-for-data-warehousing)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
@@ -117,14 +117,12 @@ cog.out(
 Our open positions:
 
 - [🎓 Internships](https://careers.dataroots.io/o/internships-leuven-gent)
-- [🔍 Recruitment & Talent Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠 Data Platform Engineer](https://careers.dataroots.io/o/experienced-data-platform-engineer)
 - [🛠 Python Software Engineer](https://careers.dataroots.io/o/python-software-engineer)
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [📊 Experienced Analytics Engineer](https://careers.dataroots.io/o/experienced-analytics-engineer)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
-- [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
