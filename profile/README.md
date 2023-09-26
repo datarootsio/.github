@@ -11,6 +11,17 @@
 [![linkedin](https://github.com/datarootsio/.github/raw/main/profile/assets/linkedin.png)](https://www.linkedin.com/company/dataroots)
 [![twitter](https://github.com/datarootsio/.github/raw/main/profile/assets/twitter.png)](https://twitter.com/Datarootsio)
 [![email](https://github.com/datarootsio/.github/raw/main/profile/assets/email.png)](mailto:info@dataroots.io)
+<!-- [[[cog
+import os
+import cog
+from dataroots_profile import stars
+
+cog.out(
+    stars.shield()
+)
+]]] -->
+[![stars](https://img.shields.io/badge/836_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories?q=&type=all&language=&sort=stargazers)
+<!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
 
