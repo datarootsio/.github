@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Fabric end-to-end use case: Analytics Engineering part 2 - Reports (28/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-analytics-engineering-part-2-reports)
 - [An Azure infrastructure to run Great Expectations on a Notion database (24/09/2023)](https://dataroots.io/research/contributions/an-azure-infrastructure-to-run-great-expectations-for-notion-database)
 - [Fabric end-to-end use case: Analytics Engineering part 1 - dbt with the Lakehouse (21/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-analytics-engineering-part-1-dbt-with-the-lakehouse)
 - [Data Quality and Governance in Google Cloud: Data Catalog vs Dataplex (17/09/2023)](https://dataroots.io/research/contributions/data-quality-and-governance-in-google-cloud)
 - [Fabric end-to-end use case: Data Engineering part 2 - Pipelines (14/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-data-engineering-part-2-pipelines)
-- [Building Data Mesh Architectures with Dataflow on Google Cloud (10/09/2023)](https://dataroots.io/research/contributions/real-time-streaming-analytics-with-google-cloud-pub-sub-and-dataflow-a-comprehensive-guide-for-data-and-ml-engineers)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
