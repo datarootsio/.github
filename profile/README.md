@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/838_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/839_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Our highlights from Big Data London (05/10/2023)](https://dataroots.io/research/contributions/our-highlights-from-big-data-london)
 - [Fabric end-to-end use case: Analytics Engineering part 2 - Reports (28/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-analytics-engineering-part-2-reports)
 - [An Azure infrastructure to run Great Expectations on a Notion database (24/09/2023)](https://dataroots.io/research/contributions/an-azure-infrastructure-to-run-great-expectations-for-notion-database)
 - [Fabric end-to-end use case: Analytics Engineering part 1 - dbt with the Lakehouse (21/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-analytics-engineering-part-1-dbt-with-the-lakehouse)
 - [Data Quality and Governance in Google Cloud: Data Catalog vs Dataplex (17/09/2023)](https://dataroots.io/research/contributions/data-quality-and-governance-in-google-cloud)
-- [Fabric end-to-end use case: Data Engineering part 2 - Pipelines (14/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-data-engineering-part-2-pipelines)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
@@ -127,6 +127,7 @@ cog.out(
 
 Our open positions:
 
+- [🎓 Internships](https://careers.dataroots.io/o/internships-leuven-gent)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠 Data Platform Engineer](https://careers.dataroots.io/o/experienced-data-platform-engineer)
 - [🛠 Python Software Engineer](https://careers.dataroots.io/o/python-software-engineer)
