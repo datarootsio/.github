@@ -127,6 +127,7 @@ cog.out(
 
 Our open positions:
 
+- [☀️ Business Developer](https://careers.dataroots.io/o/business-developer-2)
 - [🎓 Internships](https://careers.dataroots.io/o/internships-leuven-gent)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠 Data Platform Engineer](https://careers.dataroots.io/o/experienced-data-platform-engineer)
