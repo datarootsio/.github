@@ -127,7 +127,6 @@ cog.out(
 
 Our open positions:
 
-- [🤝Junior Data Analyst](https://careers.dataroots.io/o/junior-data-strategy-consultant-2)
 - [🎓 Internships](https://careers.dataroots.io/o/internships-leuven-gent)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠 Data Platform Engineer](https://careers.dataroots.io/o/experienced-data-platform-engineer)
@@ -135,6 +134,7 @@ Our open positions:
 - [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [📊 Experienced Analytics Engineer](https://careers.dataroots.io/o/experienced-analytics-engineer)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
+- [🤝Junior Data Analyst](https://careers.dataroots.io/o/junior-data-strategy-consultant-2)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
 - [☀️ Business Developer](https://careers.dataroots.io/o/business-developer-2)
 
