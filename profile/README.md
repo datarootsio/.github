@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [State of Data Quality - November 2023 (10/11/2023)](https://dataroots.io/research/contributions/state-of-data-quality-october-2023)
 - [Fabric: Lakehouse or Data Warehouse? (09/11/2023)](https://dataroots.io/research/contributions/fabric-lakehouse-or-data-warehouse)
 - [Is Microsoft Fabric just a rebranding? (19/10/2023)](https://dataroots.io/research/contributions/is-microsoft-fabric-just-a-rebranding)
 - [Our highlights from Big Data London (05/10/2023)](https://dataroots.io/research/contributions/our-highlights-from-big-data-london)
 - [Fabric end-to-end use case: Analytics Engineering part 2 - Reports (28/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-analytics-engineering-part-2-reports)
-- [An Azure infrastructure to run Great Expectations on a Notion database (24/09/2023)](https://dataroots.io/research/contributions/an-azure-infrastructure-to-run-great-expectations-for-notion-database)
 
 Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
 <!-- [[[end]]] -->
