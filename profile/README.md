@@ -1,5 +1,5 @@
 
-<img src="https://dataroots.io/rectangle-symbol-rainbow.png" width=74 align="right">
+<img src="https://dataroots.io/branding/logo/symbol-rainbow.svg" width=74 align="right">
 <h1 style="padding-top: 24px">🖖 Welcome to Dataroots' GitHub org</h1>
 
 [![youtube](https://github.com/datarootsio/.github/raw/main/profile/assets/youtube.png)](https://www.youtube.com/c/dataroots)
