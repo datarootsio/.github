@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/861_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/901_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,13 +106,13 @@ cog.out(
 
 Our latest posts:
 
-- [State of Data Quality - November 2023 (10/11/2023)](https://dataroots.io/research/contributions/state-of-data-quality-october-2023)
-- [Fabric: Lakehouse or Data Warehouse? (09/11/2023)](https://dataroots.io/research/contributions/fabric-lakehouse-or-data-warehouse)
-- [Is Microsoft Fabric just a rebranding? (19/10/2023)](https://dataroots.io/research/contributions/is-microsoft-fabric-just-a-rebranding)
-- [Our highlights from Big Data London (05/10/2023)](https://dataroots.io/research/contributions/our-highlights-from-big-data-london)
-- [Fabric end-to-end use case: Analytics Engineering part 2 - Reports (28/09/2023)](https://dataroots.io/research/contributions/fabric-end-to-end-use-case-analytics-engineering-part-2-reports)
+- [#technoshare summary - week 9 (05/03/2024)](https://dataroots.io/blog/technoshare-summary-week-9)
+- [#39 Microsoft, Musk, and Extremely Fast Image Gen using SDXL Lightning (04/03/2024)](https://dataroots.io/blog/2339-microsoft-2c-musk-2c-and-extremely-fast-image-gen-using-sdxl-lightning)
+- [#technoshare summary - week 8 (26/02/2024)](https://dataroots.io/blog/technoshare-summary-week-8)
+- [#38 Open Source AI, SQL Dialects, and New Terminals (23/02/2024)](https://dataroots.io/blog/2338-open-source-ai-2c-sql-dialects-2c-and-new-terminals)
+- [Decoding Mamba's Potential: Strengths, Weaknesses, and Where It Shines (21/02/2024)](https://dataroots.io/blog/analyzing-mambas-potential-strengths-weaknesses-and-where-it-shines)
 
-Check out all our posts at [dataroots.io/research/contributions/](https://dataroots.io/research/contributions/) 👈
+Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
 
 <!-- [[[cog
@@ -127,16 +127,12 @@ cog.out(
 
 Our open positions:
 
-- [🎓 Internships](https://careers.dataroots.io/o/internships-leuven-gent)
+- [🔍 Recruitment Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠 Data Platform Engineer](https://careers.dataroots.io/o/experienced-data-platform-engineer)
-- [🛠 Python Software Engineer](https://careers.dataroots.io/o/python-software-engineer)
-- [⛅️ Experienced Cloud Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
-- [📊 Experienced Analytics Engineer](https://careers.dataroots.io/o/experienced-analytics-engineer)
-- [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
-- [🤝Junior Data Analyst](https://careers.dataroots.io/o/junior-data-strategy-consultant-2)
+- [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
+- [🤝 Data Analyst](https://careers.dataroots.io/o/junior-data-strategy-consultant-2)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
-- [☀️ Business Developer](https://careers.dataroots.io/o/business-developer-2)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
