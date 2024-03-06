@@ -29,7 +29,7 @@ def posts(key: str, admin_domain: str = "dataroots.ghost.io") -> list[Post]:
             slug=post["slug"],
             published_at=datetime.strptime(
                 post["published_at"],
-                "%Y-%m-%dT%H:%M:%S.%f+00:00",
+                "%Y-%m-%dT%H:%M:%S.%f%z",
             ),
         )
         for post in response.json().get("posts", [])
