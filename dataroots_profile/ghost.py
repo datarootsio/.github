@@ -39,7 +39,7 @@ def posts(key: str, admin_domain: str = "dataroots.ghost.io") -> list[Post]:
 def post2str(
     post: Post,
     *,
-    base_url: str = "https://dataroots.io/research/contributions",
+    base_url: str = "https://dataroots.io/blog",
 ) -> str:
     """Get a formatted string for markdown profile from posts information."""
     base_url = base_url.rstrip("/", 1)[0] if base_url.endswith("/") else base_url
@@ -65,8 +65,8 @@ Our latest posts:
 
 {_posts}
 
-Check out all our posts at [dataroots.io/research/contributions/]\
-(https://dataroots.io/research/contributions/) 👈""",
+Check out all our posts at [dataroots.io/blog/]\
+(https://dataroots.io/blog/) 👈""",
     )
 
 
