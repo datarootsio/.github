@@ -133,6 +133,7 @@ Our open positions:
 - [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [🤝 Data Analyst](https://careers.dataroots.io/o/junior-data-strategy-consultant-2)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
+- [☀️ Business Developer](https://careers.dataroots.io/o/business-developer-2)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
