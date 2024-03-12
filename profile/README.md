@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/901_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/902_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#40 Code, Comedy, and Creativity: Navigating the Digital Data Tapestry (11/03/2024)](https://dataroots.io/blog/2340-code-2c-comedy-2c-and-creativity-3a-navigating-the-digital-data-tapestry)
+- [#technoshare summary - week 10 (11/03/2024)](https://dataroots.io/blog/technoshare-summary-week-10)
 - [#technoshare summary - week 9 (05/03/2024)](https://dataroots.io/blog/technoshare-summary-week-9)
 - [#39 Microsoft, Musk, and Extremely Fast Image Gen using SDXL Lightning (04/03/2024)](https://dataroots.io/blog/2339-microsoft-2c-musk-2c-and-extremely-fast-image-gen-using-sdxl-lightning)
 - [#technoshare summary - week 8 (26/02/2024)](https://dataroots.io/blog/technoshare-summary-week-8)
-- [#38 Open Source AI, SQL Dialects, and New Terminals (23/02/2024)](https://dataroots.io/blog/2338-open-source-ai-2c-sql-dialects-2c-and-new-terminals)
-- [Decoding Mamba's Potential: Strengths, Weaknesses, and Where It Shines (21/02/2024)](https://dataroots.io/blog/analyzing-mambas-potential-strengths-weaknesses-and-where-it-shines)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
