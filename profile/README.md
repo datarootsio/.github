@@ -129,8 +129,8 @@ Our open positions:
 
 - [🔍 Recruitment Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
 - [🛠 Experienced Data Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
-- [🛠 Data Platform Engineer](https://careers.dataroots.io/o/experienced-data-platform-engineer)
 - [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
+- [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
 - [🤝 Data Analyst](https://careers.dataroots.io/o/junior-data-strategy-consultant-2)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
 - [☀️ Business Developer](https://careers.dataroots.io/o/business-developer-2)
