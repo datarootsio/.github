@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [1 hour-long video Q&A is now possible (21/03/2024)](https://dataroots.io/blog/1-hour-long-video-q-a-is-now-possible)
 - [Podcast Ep: #41 Regulations, Rust, and Rights: Navigating EU AI Regulations, Memory Safety, and Digital Contracts (18/03/2024)](https://dataroots.io/blog/2341-regulations-2c-rust-2c-and-rights-3a-navigating-eu-ai-regulations-2c-memory-safety-2c-and-digital-contracts)
 - [#technoshare summary - week 11 (18/03/2024)](https://dataroots.io/blog/technoshare-summary-week-11)
 - [#40 Code, Comedy, and Creativity: Navigating the Digital Data Tapestry (11/03/2024)](https://dataroots.io/blog/2340-code-2c-comedy-2c-and-creativity-3a-navigating-the-digital-data-tapestry)
 - [#technoshare summary - week 10 (11/03/2024)](https://dataroots.io/blog/technoshare-summary-week-10)
-- [#technoshare summary - week 9 (05/03/2024)](https://dataroots.io/blog/technoshare-summary-week-9)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
@@ -127,14 +127,15 @@ cog.out(
 
 Our open positions:
 
+- [☀️ Business Developer](https://careers.dataroots.io/o/business-developer-2)
 - [🔍 Recruitment Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
 - [🛠 Experienced Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
+- [🛠 Data & Cloud Engineer (Utrecht 🇳🇱)](https://careers.dataroots.io/o/experienced-data-engineer-maastricht)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
 - [🤝 Data Analyst](https://careers.dataroots.io/o/junior-data-strategy-consultant-2)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
-- [☀️ Business Developer](https://careers.dataroots.io/o/business-developer-2)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
