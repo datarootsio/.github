@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/906_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/907_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #42 Unraveling the Fabric of Data: Microsoft's Ecosystem and Beyond (25/03/2024)](https://dataroots.io/blog/2342-unraveling-the-fabric-of-data-3a-microsoft-27s-ecosystem-and-beyond)
 - [1 hour-long video Q&A is now possible (21/03/2024)](https://dataroots.io/blog/1-hour-long-video-q-a-is-now-possible)
 - [Podcast Ep: #41 Regulations, Rust, and Rights: Navigating EU AI Regulations, Memory Safety, and Digital Contracts (18/03/2024)](https://dataroots.io/blog/2341-regulations-2c-rust-2c-and-rights-3a-navigating-eu-ai-regulations-2c-memory-safety-2c-and-digital-contracts)
 - [#technoshare summary - week 11 (18/03/2024)](https://dataroots.io/blog/technoshare-summary-week-11)
 - [#40 Code, Comedy, and Creativity: Navigating the Digital Data Tapestry (11/03/2024)](https://dataroots.io/blog/2340-code-2c-comedy-2c-and-creativity-3a-navigating-the-digital-data-tapestry)
-- [#technoshare summary - week 10 (11/03/2024)](https://dataroots.io/blog/technoshare-summary-week-10)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
@@ -132,9 +132,10 @@ Our open positions:
 - [🛠 Junior Data & Cloud Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
 - [🛠 Experienced Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
+- [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
 - [🛠 Data & Cloud Engineer (Utrecht 🇳🇱)](https://careers.dataroots.io/o/data-cloud-engineer-utrecht)
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
-- [🤝Junior Data Analyst](https://careers.dataroots.io/o/junior-data-strategy-consultant)
+- [🤝Junior Data Analyst](https://careers.dataroots.io/o/junior-data-analyst)
 - [📊 Junior Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🤝 Data Analyst](https://careers.dataroots.io/o/junior-data-strategy-consultant-2)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
