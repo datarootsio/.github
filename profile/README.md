@@ -137,7 +137,7 @@ Our open positions:
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
 - [🤝Junior Data Analyst](https://careers.dataroots.io/o/junior-data-analyst)
 - [📊 Junior Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
-- [🤝 Data Analyst](https://careers.dataroots.io/o/junior-data-strategy-consultant-2)
+- [🤝 Data Analyst](https://careers.dataroots.io/o/data-analyst-exp)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
 
