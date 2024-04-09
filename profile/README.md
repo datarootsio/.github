@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #44 Unpacking Open Source: A Look at GX, Monetization, Ruff's Controversy, the xz Hack & more (08/04/2024)](https://dataroots.io/blog/2344-unpacking-open-source-3a-a-look-at-gx-2c-monetization-2c-ruff-27s-controversy-2c-the-xz-hack-26-more)
+- [#technoshare summary - week 14 (08/04/2024)](https://dataroots.io/blog/technoshare-summary-week-14)
 - [Podcast Ep: The Privacy Paradox - The Tug of War Between Data Privacy and Safety (01/04/2024)](https://dataroots.io/blog/the-privacy-paradox-the-tug-of-war-between-data-privacy-and-safety)
 - [#technoshare summary - week 12 (27/03/2024)](https://dataroots.io/blog/technoshare-summary-week-12)
 - [Podcast Ep: #42 Unraveling the Fabric of Data: Microsoft's Ecosystem and Beyond (25/03/2024)](https://dataroots.io/blog/2342-unraveling-the-fabric-of-data-3a-microsoft-27s-ecosystem-and-beyond)
-- [1 hour-long video Q&A is now possible (21/03/2024)](https://dataroots.io/blog/1-hour-long-video-q-a-is-now-possible)
-- [Podcast Ep: #41 Regulations, Rust, and Rights: Navigating EU AI Regulations, Memory Safety, and Digital Contracts (18/03/2024)](https://dataroots.io/blog/2341-regulations-2c-rust-2c-and-rights-3a-navigating-eu-ai-regulations-2c-memory-safety-2c-and-digital-contracts)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
