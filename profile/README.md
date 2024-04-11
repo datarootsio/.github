@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/909_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/911_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -137,7 +137,6 @@ Our open positions:
 - [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
 - [🤝Junior Data Analyst](https://careers.dataroots.io/o/junior-data-analyst)
 - [📊 Junior Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
-- [🤝 Data Analyst](https://careers.dataroots.io/o/data-analyst-exp)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
 
