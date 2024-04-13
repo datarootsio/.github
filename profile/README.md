@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/912_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/913_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #45 Tech Check: Amazon's AI, Rust vs. Go vs. C++ and the Intricacies of AI in Coding (12/04/2024)](https://dataroots.io/blog/2345-tech-check-3a-amazon-27s-ai-2c-rust-vs-go-vs-c-2b-2b-and-the-intricacies-of-ai-in-coding)
 - [Podcast Ep: #44 Unpacking Open Source: A Look at GX, Monetization, Ruff's Controversy, the xz Hack & more (08/04/2024)](https://dataroots.io/blog/2344-unpacking-open-source-3a-a-look-at-gx-2c-monetization-2c-ruff-27s-controversy-2c-the-xz-hack-26-more)
 - [#technoshare summary - week 14 (08/04/2024)](https://dataroots.io/blog/technoshare-summary-week-14)
 - [Podcast Ep: The Privacy Paradox - The Tug of War Between Data Privacy and Safety (01/04/2024)](https://dataroots.io/blog/the-privacy-paradox-the-tug-of-war-between-data-privacy-and-safety)
 - [#technoshare summary - week 12 (27/03/2024)](https://dataroots.io/blog/technoshare-summary-week-12)
-- [Podcast Ep: #42 Unraveling the Fabric of Data: Microsoft's Ecosystem and Beyond (25/03/2024)](https://dataroots.io/blog/2342-unraveling-the-fabric-of-data-3a-microsoft-27s-ecosystem-and-beyond)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
