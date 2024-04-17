@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 15 (16/04/2024)](https://dataroots.io/blog/technoshare-summary-week-15)
 - [Podcast Ep: #45 Tech Check: Amazon's AI, Rust vs. Go vs. C++ and the Intricacies of AI in Coding (12/04/2024)](https://dataroots.io/blog/2345-tech-check-3a-amazon-27s-ai-2c-rust-vs-go-vs-c-2b-2b-and-the-intricacies-of-ai-in-coding)
 - [Podcast Ep: #44 Unpacking Open Source: A Look at GX, Monetization, Ruff's Controversy, the xz Hack & more (08/04/2024)](https://dataroots.io/blog/2344-unpacking-open-source-3a-a-look-at-gx-2c-monetization-2c-ruff-27s-controversy-2c-the-xz-hack-26-more)
 - [#technoshare summary - week 14 (08/04/2024)](https://dataroots.io/blog/technoshare-summary-week-14)
 - [Podcast Ep: The Privacy Paradox - The Tug of War Between Data Privacy and Safety (01/04/2024)](https://dataroots.io/blog/the-privacy-paradox-the-tug-of-war-between-data-privacy-and-safety)
-- [#technoshare summary - week 12 (27/03/2024)](https://dataroots.io/blog/technoshare-summary-week-12)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
