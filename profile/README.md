@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/918_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/919_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -129,7 +129,6 @@ Our open positions:
 
 - [☀️ Business Developer](https://careers.dataroots.io/o/business-developer-2)
 - [🔍 Recruitment Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
-- [🛠 Junior Data & Cloud Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
 - [🛠 Experienced Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
