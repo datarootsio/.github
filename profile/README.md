@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #48 How Can We Define DevRel in the Tech World? Tech Insights with Mehdi Ouazza (02/05/2024)](https://dataroots.io/blog/2348-how-can-we-define-devrel-in-the-tech-world-3f-tech-insights-with-mehdi-ouazza)
 - [#technoshare summary - week 17 (29/04/2024)](https://dataroots.io/blog/technoshare-summary-week-17)
 - [Orchestrating data quality with Soda, Motherduck and Prefect. (29/04/2024)](https://dataroots.io/blog/orchestrating-data-quality)
 - [Podcast Ep: #47 MLFlow Mastery, Llama 3 Unleashed, and the OpenTofu vs. Terraform Drama (24/04/2024)](https://dataroots.io/blog/2347-mlflow-mastery-2c-llama-3-unleashed-2c-and-the-opentofu-vs-terraform-drama)
 - [Creating a Fabric integration for Soda and checking data quality (22/04/2024)](https://dataroots.io/blog/creating-a-fabric-integration-for-soda-and-checking-data-quality)
-- [Podcast Ep: #46 Debunking Devon, Exploring RAG Frameworks, and Tech for a Better World (17/04/2024)](https://dataroots.io/blog/2346-debunking-devon-2c-exploring-rag-frameworks-2c-and-tech-for-a-better-world)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
@@ -133,7 +133,8 @@ Our open positions:
 - [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
 - [🛠 Data & Cloud Engineer (Utrecht 🇳🇱)](https://careers.dataroots.io/o/data-cloud-engineer-utrecht)
-- [🤖  Experienced Machine Learning Engineer](https://careers.dataroots.io/o/experienced-machine-learning-engineer)
+- [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
+- [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [🤝Junior Data Analyst](https://careers.dataroots.io/o/junior-data-analyst)
 - [📊 Junior Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
