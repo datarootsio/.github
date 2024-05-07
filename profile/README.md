@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/920_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/921_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 18 (06/05/2024)](https://dataroots.io/blog/technoshare-summary-week-18)
 - [Podcast Ep: #48 How Can We Define DevRel in the Tech World? Tech Insights with Mehdi Ouazza (02/05/2024)](https://dataroots.io/blog/2348-how-can-we-define-devrel-in-the-tech-world-3f-tech-insights-with-mehdi-ouazza)
 - [#technoshare summary - week 17 (29/04/2024)](https://dataroots.io/blog/technoshare-summary-week-17)
 - [Orchestrating data quality with Soda, Motherduck and Prefect. (29/04/2024)](https://dataroots.io/blog/orchestrating-data-quality)
 - [Podcast Ep: #47 MLFlow Mastery, Llama 3 Unleashed, and the OpenTofu vs. Terraform Drama (24/04/2024)](https://dataroots.io/blog/2347-mlflow-mastery-2c-llama-3-unleashed-2c-and-the-opentofu-vs-terraform-drama)
-- [Creating a Fabric integration for Soda and checking data quality (22/04/2024)](https://dataroots.io/blog/creating-a-fabric-integration-for-soda-and-checking-data-quality)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
