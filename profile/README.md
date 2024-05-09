@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #49 How Will the EU AI Act Affect the Future of AI? (08/05/2024)](https://dataroots.io/blog/2349-how-will-the-eu-ai-act-affect-the-future-of-ai-3f)
 - [#technoshare summary - week 18 (06/05/2024)](https://dataroots.io/blog/technoshare-summary-week-18)
 - [Podcast Ep: #48 How Can We Define DevRel in the Tech World? Tech Insights with Mehdi Ouazza (02/05/2024)](https://dataroots.io/blog/2348-how-can-we-define-devrel-in-the-tech-world-3f-tech-insights-with-mehdi-ouazza)
 - [#technoshare summary - week 17 (29/04/2024)](https://dataroots.io/blog/technoshare-summary-week-17)
 - [Orchestrating data quality with Soda, Motherduck and Prefect. (29/04/2024)](https://dataroots.io/blog/orchestrating-data-quality)
-- [Podcast Ep: #47 MLFlow Mastery, Llama 3 Unleashed, and the OpenTofu vs. Terraform Drama (24/04/2024)](https://dataroots.io/blog/2347-mlflow-mastery-2c-llama-3-unleashed-2c-and-the-opentofu-vs-terraform-drama)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
@@ -133,9 +133,10 @@ Our open positions:
 - [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
 - [🛠 Data & Cloud Engineer (Utrecht 🇳🇱)](https://careers.dataroots.io/o/data-cloud-engineer-utrecht)
-- [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
+- [⚙️ Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
+- [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
 - [🤝Junior Data Analyst](https://careers.dataroots.io/o/junior-data-analyst)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
