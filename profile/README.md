@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 19 (13/05/2024)](https://dataroots.io/blog/technoshare-summary-week-19)
 - [Podcast Ep: #49 How Will the EU AI Act Affect the Future of AI? (08/05/2024)](https://dataroots.io/blog/2349-how-will-the-eu-ai-act-affect-the-future-of-ai-3f)
 - [#technoshare summary - week 18 (06/05/2024)](https://dataroots.io/blog/technoshare-summary-week-18)
 - [Podcast Ep: #48 How Can We Define DevRel in the Tech World? Tech Insights with Mehdi Ouazza (02/05/2024)](https://dataroots.io/blog/2348-how-can-we-define-devrel-in-the-tech-world-3f-tech-insights-with-mehdi-ouazza)
 - [#technoshare summary - week 17 (29/04/2024)](https://dataroots.io/blog/technoshare-summary-week-17)
-- [Orchestrating data quality with Soda, Motherduck and Prefect. (29/04/2024)](https://dataroots.io/blog/orchestrating-data-quality)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
