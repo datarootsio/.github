@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [State of Data Quality Tools 2024 Q1 (24/05/2024)](https://dataroots.io/blog/state-of-data-quality-tools-2024-q1)
 - [Podcast Ep: #51 Is Data Science a Lonely Profession? (22/05/2024)](https://dataroots.io/blog/2351-is-data-science-a-lonely-profession-3f)
 - [Disguising the real voice of De Mol among fakes (21/05/2024)](https://dataroots.io/blog/disguising-the-real-voice-of-among-fakes)
 - [#technoshare summary - week 20 (20/05/2024)](https://dataroots.io/blog/technoshare-summary-week-20)
 - [Podcast Ep: #50 Where Will ChatGPT-4o Take Us? Exploring AI's Future & Latest Updates (Claude 3, Stack Overflow & OpenAI deal and more) (15/05/2024)](https://dataroots.io/blog/2350-where-will-chatgpt-4o-take-us-3f-exploring-ai-27s-future-26-latest-updates-28claude-3-2c-stack-overflow-26-openai-deal-and-more-29)
-- [#technoshare summary - week 19 (13/05/2024)](https://dataroots.io/blog/technoshare-summary-week-19)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
@@ -131,7 +131,6 @@ Our open positions:
 - [🔍 Recruitment Specialist](https://careers.dataroots.io/o/recruitment-talent-specialist)
 - [🛠 Experienced Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
-- [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
 - [🛠 Data & Cloud Engineer (Utrecht 🇳🇱)](https://careers.dataroots.io/o/data-cloud-engineer-utrecht)
 - [⚙️ Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
