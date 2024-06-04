@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 22 (03/06/2024)](https://dataroots.io/blog/technoshare-summary-week-22)
 - [Can Modern BI Democratize Data Analytics? (31/05/2024)](https://dataroots.io/blog/can-modern-bi-democratize-data-analytics)
 - [Podcast Ep: #52 Can AI-Generated Voices Fool Us? Insights from 'De Mol' TV Show (29/05/2024)](https://dataroots.io/blog/2352-can-ai-generated-voices-fool-us-3f-insights-from-27de-mol-27-tv-show)
 - [#technoshare summary - week 21 (27/05/2024)](https://dataroots.io/blog/technoshare-summary-week-21)
 - [State of Data Quality Tools 2024 Q1 (24/05/2024)](https://dataroots.io/blog/state-of-data-quality-tools-2024-q1)
-- [Podcast Ep: #51 Is Data Science a Lonely Profession? (22/05/2024)](https://dataroots.io/blog/2351-is-data-science-a-lonely-profession-3f)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
