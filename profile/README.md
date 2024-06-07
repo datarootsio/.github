@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #53 Can AI Replace Human Creativity? & Latest Tech Updates (Meta, Klarna GenAI, Apple-OpenAI Partnership & More) (06/06/2024)](https://dataroots.io/blog/2353-can-ai-replace-human-creativity-3f-26-latest-tech-updates-28meta-2c-klarna-genai-2c-apple-openai-partnership-26-more-29)
 - [#technoshare summary - week 22 (03/06/2024)](https://dataroots.io/blog/technoshare-summary-week-22)
 - [Can Modern BI Democratize Data Analytics? (31/05/2024)](https://dataroots.io/blog/can-modern-bi-democratize-data-analytics)
 - [Podcast Ep: #52 Can AI-Generated Voices Fool Us? Insights from 'De Mol' TV Show (29/05/2024)](https://dataroots.io/blog/2352-can-ai-generated-voices-fool-us-3f-insights-from-27de-mol-27-tv-show)
 - [#technoshare summary - week 21 (27/05/2024)](https://dataroots.io/blog/technoshare-summary-week-21)
-- [State of Data Quality Tools 2024 Q1 (24/05/2024)](https://dataroots.io/blog/state-of-data-quality-tools-2024-q1)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
@@ -136,7 +136,6 @@ Our open positions:
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
-- [🤝Junior Data Analyst](https://careers.dataroots.io/o/junior-data-analyst)
 - [🤝  Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
 
