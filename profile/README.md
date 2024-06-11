@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 23 (10/06/2024)](https://dataroots.io/blog/technoshare-summary-week-23)
 - [Podcast Ep: #53 Can AI Replace Human Creativity? & Latest Tech Updates (Meta, Klarna GenAI, Apple-OpenAI Partnership & More) (06/06/2024)](https://dataroots.io/blog/2353-can-ai-replace-human-creativity-3f-26-latest-tech-updates-28meta-2c-klarna-genai-2c-apple-openai-partnership-26-more-29)
 - [#technoshare summary - week 22 (03/06/2024)](https://dataroots.io/blog/technoshare-summary-week-22)
 - [Can Modern BI Democratize Data Analytics? (31/05/2024)](https://dataroots.io/blog/can-modern-bi-democratize-data-analytics)
 - [Podcast Ep: #52 Can AI-Generated Voices Fool Us? Insights from 'De Mol' TV Show (29/05/2024)](https://dataroots.io/blog/2352-can-ai-generated-voices-fool-us-3f-insights-from-27de-mol-27-tv-show)
-- [#technoshare summary - week 21 (27/05/2024)](https://dataroots.io/blog/technoshare-summary-week-21)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
