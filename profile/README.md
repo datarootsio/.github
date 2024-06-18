@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/930_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/932_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 24 (17/06/2024)](https://dataroots.io/blog/technoshare-summary-week-24)
 - [Podcast Ep: #54 Is Apple Intelligence...Intelligent? & More: $10K "ChatGPT" Error, Adobe's AI Policy & Open-Source Insights (13/06/2024)](https://dataroots.io/blog/2354-is-apple-intelligence-intelligent-3f-26-more-3a-2410k-22chatgpt-22-error-2c-adobe-27s-ai-policy-26-open-source-insights)
 - [#technoshare summary - week 23 (10/06/2024)](https://dataroots.io/blog/technoshare-summary-week-23)
 - [Podcast Ep: #53 Can AI Replace Human Creativity? & Latest Tech Updates (Meta, Klarna GenAI, Apple-OpenAI Partnership & More) (06/06/2024)](https://dataroots.io/blog/2353-can-ai-replace-human-creativity-3f-26-latest-tech-updates-28meta-2c-klarna-genai-2c-apple-openai-partnership-26-more-29)
 - [#technoshare summary - week 22 (03/06/2024)](https://dataroots.io/blog/technoshare-summary-week-22)
-- [Can Modern BI Democratize Data Analytics? (31/05/2024)](https://dataroots.io/blog/can-modern-bi-democratize-data-analytics)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
