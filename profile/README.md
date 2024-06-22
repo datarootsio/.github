@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #55 Can AI Predict Euro 2024 Winners? (21/06/2024)](https://dataroots.io/blog/2355-can-ai-predict-euro-2024-winners-3f)
 - [#technoshare summary - week 24 (17/06/2024)](https://dataroots.io/blog/technoshare-summary-week-24)
 - [Podcast Ep: #54 Is Apple Intelligence...Intelligent? & More: $10K "ChatGPT" Error, Adobe's AI Policy & Open-Source Insights (13/06/2024)](https://dataroots.io/blog/2354-is-apple-intelligence-intelligent-3f-26-more-3a-2410k-22chatgpt-22-error-2c-adobe-27s-ai-policy-26-open-source-insights)
 - [#technoshare summary - week 23 (10/06/2024)](https://dataroots.io/blog/technoshare-summary-week-23)
 - [Podcast Ep: #53 Can AI Replace Human Creativity? & Latest Tech Updates (Meta, Klarna GenAI, Apple-OpenAI Partnership & More) (06/06/2024)](https://dataroots.io/blog/2353-can-ai-replace-human-creativity-3f-26-latest-tech-updates-28meta-2c-klarna-genai-2c-apple-openai-partnership-26-more-29)
-- [#technoshare summary - week 22 (03/06/2024)](https://dataroots.io/blog/technoshare-summary-week-22)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
