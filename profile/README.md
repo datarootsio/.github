@@ -127,10 +127,10 @@ cog.out(
 
 Our open positions:
 
-- [Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
 - [☀️ Business Developer](https://careers.dataroots.io/o/business-developer-2)
 - [🛠 Experienced Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
+- [Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
 - [🛠 Data & Cloud Engineer (Utrecht 🇳🇱)](https://careers.dataroots.io/o/data-cloud-engineer-utrecht)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
