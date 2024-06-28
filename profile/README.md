@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/938_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/939_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #56 What Skills Do You Need to Become an AI Engineer? & Tech Updates: Claude 3.5, Safe Superintelligence Inc. & more (27/06/2024)](https://dataroots.io/blog/2356-what-skills-do-you-need-to-become-an-ai-engineer-3f-26-tech-updates-3a-claude-3-5-2c-safe-superintelligence-inc-26-more)
 - [#technoshare summary - week 25 (24/06/2024)](https://dataroots.io/blog/technoshare-summary-week-25)
 - [Podcast Ep: #55 Can AI Predict Euro 2024 Winners? (21/06/2024)](https://dataroots.io/blog/2355-can-ai-predict-euro-2024-winners-3f)
 - [#technoshare summary - week 24 (17/06/2024)](https://dataroots.io/blog/technoshare-summary-week-24)
 - [Podcast Ep: #54 Is Apple Intelligence...Intelligent? & More: $10K "ChatGPT" Error, Adobe's AI Policy & Open-Source Insights (13/06/2024)](https://dataroots.io/blog/2354-is-apple-intelligence-intelligent-3f-26-more-3a-2410k-22chatgpt-22-error-2c-adobe-27s-ai-policy-26-open-source-insights)
-- [#technoshare summary - week 23 (10/06/2024)](https://dataroots.io/blog/technoshare-summary-week-23)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
@@ -131,7 +131,6 @@ Our open positions:
 - [🛠 Experienced Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Experienced Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
-- [🛠 Data & Cloud Engineer (Utrecht 🇳🇱)](https://careers.dataroots.io/o/data-cloud-engineer-utrecht)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
