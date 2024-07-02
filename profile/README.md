@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
-- [Podcast Ep: #56 What Skills Do You Need to Become an AI Engineer? & Tech Updates: Claude 3.5, Safe Superintelligence Inc. & more (27/06/2024)](https://dataroots.io/blog/2356-what-skills-do-you-need-to-become-an-ai-engineer-3f-26-tech-updates-3a-claude-3-5-2c-safe-superintelligence-inc-26-more)
+- [#technoshare summary - week 26 (01/07/2024)](https://dataroots.io/blog/technoshare-summary-week-26)
+- [Podcast Ep: #56 What Skills Do You Need to Become an AI Engineer? (27/06/2024)](https://dataroots.io/blog/2356-what-skills-do-you-need-to-become-an-ai-engineer-3f-26-tech-updates-3a-claude-3-5-2c-safe-superintelligence-inc-26-more)
 - [#technoshare summary - week 25 (24/06/2024)](https://dataroots.io/blog/technoshare-summary-week-25)
 - [Podcast Ep: #55 Can AI Predict Euro 2024 Winners? (21/06/2024)](https://dataroots.io/blog/2355-can-ai-predict-euro-2024-winners-3f)
 - [#technoshare summary - week 24 (17/06/2024)](https://dataroots.io/blog/technoshare-summary-week-24)
-- [Podcast Ep: #54 Is Apple Intelligence...Intelligent? & More: $10K "ChatGPT" Error, Adobe's AI Policy & Open-Source Insights (13/06/2024)](https://dataroots.io/blog/2354-is-apple-intelligence-intelligent-3f-26-more-3a-2410k-22chatgpt-22-error-2c-adobe-27s-ai-policy-26-open-source-insights)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
