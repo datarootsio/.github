@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/943_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/945_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #57 Can the Music Industry Win the Battle Against AI? (04/07/2024)](https://dataroots.io/blog/2357-can-the-music-industry-win-the-battle-against-ai-3f)
 - [#technoshare summary - week 26 (01/07/2024)](https://dataroots.io/blog/technoshare-summary-week-26)
 - [Podcast Ep: #56 What Skills Do You Need to Become an AI Engineer? (27/06/2024)](https://dataroots.io/blog/2356-what-skills-do-you-need-to-become-an-ai-engineer-3f-26-tech-updates-3a-claude-3-5-2c-safe-superintelligence-inc-26-more)
 - [#technoshare summary - week 25 (24/06/2024)](https://dataroots.io/blog/technoshare-summary-week-25)
 - [Podcast Ep: #55 Can AI Predict Euro 2024 Winners? (21/06/2024)](https://dataroots.io/blog/2355-can-ai-predict-euro-2024-winners-3f)
-- [#technoshare summary - week 24 (17/06/2024)](https://dataroots.io/blog/technoshare-summary-week-24)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
