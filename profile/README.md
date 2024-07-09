@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 27 (08/07/2024)](https://dataroots.io/blog/technoshare-summary-week-27)
 - [Podcast Ep: #57 Can the Music Industry Win the Battle Against AI? (04/07/2024)](https://dataroots.io/blog/2357-can-the-music-industry-win-the-battle-against-ai-3f)
 - [#technoshare summary - week 26 (01/07/2024)](https://dataroots.io/blog/technoshare-summary-week-26)
 - [Podcast Ep: #56 What Skills Do You Need to Become an AI Engineer? (27/06/2024)](https://dataroots.io/blog/2356-what-skills-do-you-need-to-become-an-ai-engineer-3f-26-tech-updates-3a-claude-3-5-2c-safe-superintelligence-inc-26-more)
 - [#technoshare summary - week 25 (24/06/2024)](https://dataroots.io/blog/technoshare-summary-week-25)
-- [Podcast Ep: #55 Can AI Predict Euro 2024 Winners? (21/06/2024)](https://dataroots.io/blog/2355-can-ai-predict-euro-2024-winners-3f)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
