@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: Maximizing Productivity: Bookmarklets, Q Command-Line, RouteLLM, and DuckDB Extensions (12/07/2024)](https://dataroots.io/blog/maximizing-productivity-3a-bookmarklets-2c-q-command-line-2c-routellm-2c-and-duckdb-extensions)
 - [#technoshare summary - week 27 (08/07/2024)](https://dataroots.io/blog/technoshare-summary-week-27)
 - [Podcast Ep: #57 Can the Music Industry Win the Battle Against AI? (04/07/2024)](https://dataroots.io/blog/2357-can-the-music-industry-win-the-battle-against-ai-3f)
 - [#technoshare summary - week 26 (01/07/2024)](https://dataroots.io/blog/technoshare-summary-week-26)
 - [Podcast Ep: #56 What Skills Do You Need to Become an AI Engineer? (27/06/2024)](https://dataroots.io/blog/2356-what-skills-do-you-need-to-become-an-ai-engineer-3f-26-tech-updates-3a-claude-3-5-2c-safe-superintelligence-inc-26-more)
-- [#technoshare summary - week 25 (24/06/2024)](https://dataroots.io/blog/technoshare-summary-week-25)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
