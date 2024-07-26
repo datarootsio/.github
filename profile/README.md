@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Introducing PaliGemma: A Vision Language Model for the Future (25/07/2024)](https://dataroots.io/blog/introducing-paligemma-a-vision-language-model-for-the-future)
 - [#technoshare summary - week 29 (22/07/2024)](https://dataroots.io/blog/technoshare-summary-week-29)
 - [Podcast Ep: #59 Did AI Accurately Predict the Euro 2024 Winners? (18/07/2024)](https://dataroots.io/blog/2359-did-ai-accurately-predict-the-euro-2024-winners-3f)
 - [Data 4 Green: Data Insights for Sustainable Manufacturing (16/07/2024)](https://dataroots.io/blog/data-4-green-2)
 - [#technoshare summary - week 28 (15/07/2024)](https://dataroots.io/blog/technoshare-summary-week-28)
-- [Podcast Ep: Maximizing Productivity: Bookmarklets, Q Command-Line, RouteLLM, and DuckDB Extensions (12/07/2024)](https://dataroots.io/blog/maximizing-productivity-3a-bookmarklets-2c-q-command-line-2c-routellm-2c-and-duckdb-extensions)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
