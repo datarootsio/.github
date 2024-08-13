@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/954_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/953_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 32 (12/08/2024)](https://dataroots.io/blog/technoshare-summary-week-32)
 - [Podcast Ep: #60 AI and the Paris 2024 Olympics: From Tech to Yusuf Dikec Memes (08/08/2024)](https://dataroots.io/blog/2360-ai-and-the-paris-2024-olympics-3a-from-tech-to-yusuf-dikec-memes)
 - [#technoshare summary - week 31 (05/08/2024)](https://dataroots.io/blog/technoshare-summary-week-31)
 - [#technoshare summary - week 30 (29/07/2024)](https://dataroots.io/blog/technoshare-summary-week-30)
 - [Introducing PaliGemma: A Vision Language Model for the Future (25/07/2024)](https://dataroots.io/blog/introducing-paligemma-a-vision-language-model-for-the-future)
-- [#technoshare summary - week 29 (22/07/2024)](https://dataroots.io/blog/technoshare-summary-week-29)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
