@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 35 (02/09/2024)](https://dataroots.io/blog/technoshare-summary-week-35)
 - [#technoshare summary - week 34 (26/08/2024)](https://dataroots.io/blog/technoshare-summary-week-34)
 - [#technoshare summary - week 33 (19/08/2024)](https://dataroots.io/blog/technoshare-summary-week-33)
 - [Innovation Takes the Wheel: Smart Solutions for Urban Management (14/08/2024)](https://dataroots.io/blog/parking-spaces)
 - [#technoshare summary - week 32 (12/08/2024)](https://dataroots.io/blog/technoshare-summary-week-32)
-- [Podcast Ep: #60 AI and the Paris 2024 Olympics: From Tech to Yusuf Dikec Memes (08/08/2024)](https://dataroots.io/blog/2360-ai-and-the-paris-2024-olympics-3a-from-tech-to-yusuf-dikec-memes)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
