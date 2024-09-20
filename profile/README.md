@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: AI is Officially Smarter Than Humans: First Look at OpenAI O1 'Strawberry' (19/09/2024)](https://dataroots.io/blog/ai-is-officially-smarter-than-humans-3a-first-look-at-openai-o1-27strawberry-27)
 - [#technoshare summary - week 37 (16/09/2024)](https://dataroots.io/blog/technoshare-summary-week-37)
 - [#technoshare summary - week 36 (09/09/2024)](https://dataroots.io/blog/technoshare-summary-week-36)
 - [#technoshare summary - week 35 (02/09/2024)](https://dataroots.io/blog/technoshare-summary-week-35)
 - [#technoshare summary - week 34 (26/08/2024)](https://dataroots.io/blog/technoshare-summary-week-34)
-- [#technoshare summary - week 33 (19/08/2024)](https://dataroots.io/blog/technoshare-summary-week-33)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
