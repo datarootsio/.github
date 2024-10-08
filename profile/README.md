@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/979_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/980_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 40 (07/10/2024)](https://dataroots.io/blog/technoshare-summary-week-40)
 - [#technoshare summary - week 39 (30/09/2024)](https://dataroots.io/blog/technoshare-summary-week-39)
 - [Podcast Ep: #62 The End of Pandas, Rise of Ibis: AI, Function Calling, & Python’s New Tools (26/09/2024)](https://dataroots.io/blog/2362-the-end-of-pandas-2c-rise-of-ibis-3a-ai-2c-function-calling-2c-26-python-e2-80-99s-new-tools)
 - [#technoshare summary - week 38 (23/09/2024)](https://dataroots.io/blog/technoshare-summary-week-38)
 - [Podcast Ep: AI is Officially Smarter Than Humans: First Look at OpenAI O1 'Strawberry' (19/09/2024)](https://dataroots.io/blog/ai-is-officially-smarter-than-humans-3a-first-look-at-openai-o1-27strawberry-27)
-- [#technoshare summary - week 37 (16/09/2024)](https://dataroots.io/blog/technoshare-summary-week-37)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
