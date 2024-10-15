@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 41 (14/10/2024)](https://dataroots.io/blog/technoshare-summary-week-41)
 - [Podcast Ep: #63 What’s Next for Open Source? Astral’s business model, WordPress, Deno 2.0 & One Year of DataTopics! (08/10/2024)](https://dataroots.io/blog/2363-what-e2-80-99s-next-for-open-source-3f-astral-e2-80-99s-business-model-2c-wordpress-2c-deno-2-0-26-one-year-of-datatopics-21)
 - [#technoshare summary - week 40 (07/10/2024)](https://dataroots.io/blog/technoshare-summary-week-40)
 - [#technoshare summary - week 39 (30/09/2024)](https://dataroots.io/blog/technoshare-summary-week-39)
 - [Podcast Ep: #62 The End of Pandas, Rise of Ibis: AI, Function Calling, & Python’s New Tools (26/09/2024)](https://dataroots.io/blog/2362-the-end-of-pandas-2c-rise-of-ibis-3a-ai-2c-function-calling-2c-26-python-e2-80-99s-new-tools)
-- [#technoshare summary - week 38 (23/09/2024)](https://dataroots.io/blog/technoshare-summary-week-38)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
