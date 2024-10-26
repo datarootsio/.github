@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: Altair, AI, and the Art of Data Storytelling: A Deep Dive with Angelica Lo Duca (25/10/2024)](https://dataroots.io/blog/altair-2c-ai-2c-and-the-art-of-data-storytelling-3a-a-deep-dive-with-angelica-lo-duca)
 - [#technoshare summary - week 42 (21/10/2024)](https://dataroots.io/blog/technoshare-summary-week-42)
 - [Podcast Ep: #64 Python WTF moments, Rust rants & Quantum flops (17/10/2024)](https://dataroots.io/blog/2364-python-wtf-moments-2c-rust-rants-26-quantum-flops)
 - [#technoshare summary - week 41 (14/10/2024)](https://dataroots.io/blog/technoshare-summary-week-41)
 - [Podcast Ep: #63 What’s Next for Open Source? Astral’s business model, WordPress, Deno 2.0 & One Year of DataTopics! (08/10/2024)](https://dataroots.io/blog/2363-what-e2-80-99s-next-for-open-source-3f-astral-e2-80-99s-business-model-2c-wordpress-2c-deno-2-0-26-one-year-of-datatopics-21)
-- [#technoshare summary - week 40 (07/10/2024)](https://dataroots.io/blog/technoshare-summary-week-40)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
