@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/986_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/988_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 43 (28/10/2024)](https://dataroots.io/blog/technoshare-summary-week-43)
 - [Podcast Ep: Altair, AI, and the Art of Data Storytelling: A Deep Dive with Angelica Lo Duca (25/10/2024)](https://dataroots.io/blog/altair-2c-ai-2c-and-the-art-of-data-storytelling-3a-a-deep-dive-with-angelica-lo-duca)
 - [#technoshare summary - week 42 (21/10/2024)](https://dataroots.io/blog/technoshare-summary-week-42)
 - [Podcast Ep: #64 Python WTF moments, Rust rants & Quantum flops (17/10/2024)](https://dataroots.io/blog/2364-python-wtf-moments-2c-rust-rants-26-quantum-flops)
 - [#technoshare summary - week 41 (14/10/2024)](https://dataroots.io/blog/technoshare-summary-week-41)
-- [Podcast Ep: #63 What’s Next for Open Source? Astral’s business model, WordPress, Deno 2.0 & One Year of DataTopics! (08/10/2024)](https://dataroots.io/blog/2363-what-e2-80-99s-next-for-open-source-3f-astral-e2-80-99s-business-model-2c-wordpress-2c-deno-2-0-26-one-year-of-datatopics-21)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
