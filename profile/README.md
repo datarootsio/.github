@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/992_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/991_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 45 (11/11/2024)](https://dataroots.io/blog/technoshare-summary-week-45)
 - [Podcast Ep: #67 The AI Race: ChatGPT's New Web Search, Meta’s Llama AI Scaling Efforts & Python 3.13's Upgrades (07/11/2024)](https://dataroots.io/blog/2367-the-ai-race-3a-chatgpt-27s-new-web-search-2c-meta-e2-80-99s-llama-ai-scaling-efforts-26-python-3-13-27s-upgrades)
 - [Inside the Roots Academy: The Launchpad for New Data Talent (04/11/2024)](https://dataroots.io/blog/inside-the-roots-academy-the-launchpad-for-new-data-talent)
 - [#technoshare summary - week 44 (04/11/2024)](https://dataroots.io/blog/technoshare-summary-week-44)
 - [Podcast Ep: #66 From Will Smith to Meta's MovieGen: How AI Video Got Real. Plus Claude 3.5’s “Computer Use” & Open Source Tools (31/10/2024)](https://dataroots.io/blog/2366-from-will-smith-to-meta-27s-moviegen-3a-how-ai-video-got-real-plus-claude-3-5-e2-80-99s-e2-80-9ccomputer-use-e2-80-9d-26-open-source-tools)
-- [#technoshare summary - week 43 (28/10/2024)](https://dataroots.io/blog/technoshare-summary-week-43)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
