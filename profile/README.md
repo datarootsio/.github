@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #68 GenAI meets Minecraft, OpenAI’s O1 Leak, Strava’s AI Moves, HTMX vs. React & Octoverse Trends (14/11/2024)](https://dataroots.io/blog/2368-genai-meets-minecraft-2c-openai-e2-80-99s-o1-leak-2c-strava-e2-80-99s-ai-moves-2c-htmx-vs-react-26-octoverse-trends)
 - [#technoshare summary - week 45 (11/11/2024)](https://dataroots.io/blog/technoshare-summary-week-45)
 - [Podcast Ep: #67 The AI Race: ChatGPT's New Web Search, Meta’s Llama AI Scaling Efforts & Python 3.13's Upgrades (07/11/2024)](https://dataroots.io/blog/2367-the-ai-race-3a-chatgpt-27s-new-web-search-2c-meta-e2-80-99s-llama-ai-scaling-efforts-26-python-3-13-27s-upgrades)
 - [Inside the Roots Academy: The Launchpad for New Data Talent (04/11/2024)](https://dataroots.io/blog/inside-the-roots-academy-the-launchpad-for-new-data-talent)
 - [#technoshare summary - week 44 (04/11/2024)](https://dataroots.io/blog/technoshare-summary-week-44)
-- [Podcast Ep: #66 From Will Smith to Meta's MovieGen: How AI Video Got Real. Plus Claude 3.5’s “Computer Use” & Open Source Tools (31/10/2024)](https://dataroots.io/blog/2366-from-will-smith-to-meta-27s-moviegen-3a-how-ai-video-got-real-plus-claude-3-5-e2-80-99s-e2-80-9ccomputer-use-e2-80-9d-26-open-source-tools)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
