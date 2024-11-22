@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/997_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/998_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Podcast Ep: #69 From Engineer to CEO: Alex Gallego on Building Red Panda (21/11/2024)](https://dataroots.io/blog/2369-from-engineer-to-ceo-3a-alex-gallego-on-building-red-panda)
 - [#technoshare summary - week 46 (18/11/2024)](https://dataroots.io/blog/technoshare-summary-week-46-2)
 - [Podcast Ep: #68 GenAI meets Minecraft, OpenAI’s O1 Leak, Strava’s AI Moves, HTMX vs. React & Octoverse Trends (14/11/2024)](https://dataroots.io/blog/2368-genai-meets-minecraft-2c-openai-e2-80-99s-o1-leak-2c-strava-e2-80-99s-ai-moves-2c-htmx-vs-react-26-octoverse-trends)
 - [#technoshare summary - week 45 (11/11/2024)](https://dataroots.io/blog/technoshare-summary-week-45)
 - [Podcast Ep: #67 The AI Race: ChatGPT's New Web Search, Meta’s Llama AI Scaling Efforts & Python 3.13's Upgrades (07/11/2024)](https://dataroots.io/blog/2367-the-ai-race-3a-chatgpt-27s-new-web-search-2c-meta-e2-80-99s-llama-ai-scaling-efforts-26-python-3-13-27s-upgrades)
-- [Inside the Roots Academy: The Launchpad for New Data Talent (04/11/2024)](https://dataroots.io/blog/inside-the-roots-academy-the-launchpad-for-new-data-talent)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
