@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/1001_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/1005_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 48 (02/12/2024)](https://dataroots.io/blog/technoshare-summary-week-48-2)
 - [#technoshare summary - week 47 (25/11/2024)](https://dataroots.io/blog/technoshare-summary-week-47-2)
 - [Podcast Ep: #69 From Engineer to CEO: Alex Gallego on Building Red Panda (21/11/2024)](https://dataroots.io/blog/2369-from-engineer-to-ceo-3a-alex-gallego-on-building-red-panda)
 - [#technoshare summary - week 46 (18/11/2024)](https://dataroots.io/blog/technoshare-summary-week-46-2)
 - [Podcast Ep: #68 GenAI meets Minecraft, OpenAI’s O1 Leak, Strava’s AI Moves, HTMX vs. React & Octoverse Trends (14/11/2024)](https://dataroots.io/blog/2368-genai-meets-minecraft-2c-openai-e2-80-99s-o1-leak-2c-strava-e2-80-99s-ai-moves-2c-htmx-vs-react-26-octoverse-trends)
-- [#technoshare summary - week 45 (11/11/2024)](https://dataroots.io/blog/technoshare-summary-week-45)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
@@ -127,6 +127,7 @@ cog.out(
 
 Our open positions:
 
+- [🚀 Business Unit Lead](https://careers.dataroots.io/o/business-unit-lead)
 - [☀️ Business Developer](https://careers.dataroots.io/o/business-developer-2)
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
@@ -136,7 +137,6 @@ Our open positions:
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
 - [🔭 Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 - [🤝  Data Governance Expert](https://careers.dataroots.io/o/data-governance-expert-hybrid)
-- [🎓 Internships](https://careers.dataroots.io/o/internships-leuven-gent)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
