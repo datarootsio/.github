@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 1 (06/01/2025)](https://dataroots.io/blog/technoshare-summary-week-1-2)
 - [#technoshare summary - week 52 (30/12/2024)](https://dataroots.io/blog/technoshare-summary-week-52)
 - [#technoshare summary - week 51 (23/12/2024)](https://dataroots.io/blog/technoshare-summary-week-51)
 - [#technoshare summary - week 48 (02/12/2024)](https://dataroots.io/blog/technoshare-summary-week-48-2)
 - [#technoshare summary - week 47 (25/11/2024)](https://dataroots.io/blog/technoshare-summary-week-47-2)
-- [Podcast Ep: #69 From Engineer to CEO: Alex Gallego on Building Red Panda (21/11/2024)](https://dataroots.io/blog/2369-from-engineer-to-ceo-3a-alex-gallego-on-building-red-panda)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
