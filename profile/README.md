@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 2 (13/01/2025)](https://dataroots.io/blog/technoshare-summary-week-2)
 - [#technoshare summary - week 1 (06/01/2025)](https://dataroots.io/blog/technoshare-summary-week-1-2)
 - [#technoshare summary - week 52 (30/12/2024)](https://dataroots.io/blog/technoshare-summary-week-52)
 - [#technoshare summary - week 51 (23/12/2024)](https://dataroots.io/blog/technoshare-summary-week-51)
 - [#technoshare summary - week 48 (02/12/2024)](https://dataroots.io/blog/technoshare-summary-week-48-2)
-- [#technoshare summary - week 47 (25/11/2024)](https://dataroots.io/blog/technoshare-summary-week-47-2)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
