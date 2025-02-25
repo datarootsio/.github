@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/1022_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/1023_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 8 (24/02/2025)](https://dataroots.io/blog/technoshare-summary-week-8-2)
 - [DevOps in Power BI/Fabric: Why It Matters for Your Business (17/02/2025)](https://dataroots.io/blog/devops-in-power-bi-fabric-why-it-matters-for-your-business-2)
 - [#technoshare summary - week 7 (17/02/2025)](https://dataroots.io/blog/technoshare-summary-week-7-2)
 - [#technoshare summary - week 6 (10/02/2025)](https://dataroots.io/blog/technoshare-summary-week-6-2)
 - [#technoshare summary - week 5 (03/02/2025)](https://dataroots.io/blog/technoshare-summary-week-5-2)
-- [#technoshare summary - week 4 (27/01/2025)](https://dataroots.io/blog/technoshare-summary-week-4-2)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
