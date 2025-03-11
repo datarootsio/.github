@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [#technoshare summary - week 10 (10/03/2025)](https://dataroots.io/blog/technoshare-summary-week-10-2)
 - [#technoshare summary - week 9 (03/03/2025)](https://dataroots.io/blog/technoshare-summary-week-9-2)
 - [Why Microsoft Copilot Adoption Fails (and How to Fix It) (26/02/2025)](https://dataroots.io/blog/why-microsoft-copilot-adoption-fails-and-how-to-fix-it)
 - [#technoshare summary - week 8 (24/02/2025)](https://dataroots.io/blog/technoshare-summary-week-8-2)
 - [DevOps in Power BI/Fabric: Why It Matters for Your Business (17/02/2025)](https://dataroots.io/blog/devops-in-power-bi-fabric-why-it-matters-for-your-business-2)
-- [#technoshare summary - week 7 (17/02/2025)](https://dataroots.io/blog/technoshare-summary-week-7-2)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
@@ -132,6 +132,7 @@ Our open positions:
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [📊 Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
+- [⚙️ Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
