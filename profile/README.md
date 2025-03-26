@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [GenAI Is Taking Over the Modern Data Stack - Starting with dbt Copilot (25/03/2025)](https://dataroots.io/blog/genai-is-taking-over-the-modern-data-stack-and-dbt-copilot-is-leading-the-way-in-analytics-engineering-2)
 - [#technoshare summary - week 11 (17/03/2025)](https://dataroots.io/blog/technoshare-summary-week-11-2)
 - [#technoshare summary - week 10 (10/03/2025)](https://dataroots.io/blog/technoshare-summary-week-10-2)
 - [#technoshare summary - week 9 (03/03/2025)](https://dataroots.io/blog/technoshare-summary-week-9-2)
 - [Why Microsoft Copilot Adoption Fails (and How to Fix It) (26/02/2025)](https://dataroots.io/blog/why-microsoft-copilot-adoption-fails-and-how-to-fix-it)
-- [#technoshare summary - week 8 (24/02/2025)](https://dataroots.io/blog/technoshare-summary-week-8-2)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
