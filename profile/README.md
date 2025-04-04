@@ -128,6 +128,7 @@ cog.out(
 Our open positions:
 
 - [🔮 GenAI Strategy Consultant](https://careers.dataroots.io/o/genai-strategy-consultant)
+- [🚀 Business Unit Lead](https://careers.dataroots.io/o/business-unit-lead)
 - [☀️ Data Client Partner](https://careers.dataroots.io/o/business-developer-2)
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
