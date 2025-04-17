@@ -134,7 +134,6 @@ Our open positions:
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [📊 Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
-- [⚙️ Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
