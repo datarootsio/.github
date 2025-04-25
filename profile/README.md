@@ -127,8 +127,6 @@ cog.out(
 
 Our open positions:
 
-- [🔮 GenAI Strategy Consultant](https://careers.dataroots.io/o/genai-strategy-consultant)
-- [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🚀 Business Unit Lead](https://careers.dataroots.io/o/business-unit-lead)
 - [☀️ Senior Business Developer](https://careers.dataroots.io/o/business-developer-2)
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
@@ -137,6 +135,8 @@ Our open positions:
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
+- [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
+- [🔮 GenAI Strategy Consultant](https://careers.dataroots.io/o/genai-strategy-consultant)
 - [🔭 Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
