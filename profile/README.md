@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [SQLMesh vs dbt Core: Is a New Challenger Emerging in Analytics Engineering? (30/04/2025)](https://dataroots.io/blog/sqlmesh-vs-dbt-core-is-a-new-challenger-emerging-in-analytics-engineering)
 - [Key Insights from AWS Summit 2025: What Stuck with Us (and Why) (17/04/2025)](https://dataroots.io/blog/key-insights-from-aws-summit-2025-what-stuck-with-us-and-why)
 - [GenAI Is Taking Over the Modern Data Stack - Starting with dbt Copilot (25/03/2025)](https://dataroots.io/blog/genai-is-taking-over-the-modern-data-stack-and-dbt-copilot-is-leading-the-way-in-analytics-engineering-2)
 - [#technoshare summary - week 11 (17/03/2025)](https://dataroots.io/blog/technoshare-summary-week-11-2)
 - [#technoshare summary - week 10 (10/03/2025)](https://dataroots.io/blog/technoshare-summary-week-10-2)
-- [#technoshare summary - week 9 (03/03/2025)](https://dataroots.io/blog/technoshare-summary-week-9-2)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
