@@ -127,7 +127,6 @@ cog.out(
 
 Our open positions:
 
-- [🚀 Business Unit Lead](https://careers.dataroots.io/o/business-unit-lead)
 - [☀️ Senior Business Developer](https://careers.dataroots.io/o/business-developer-2)
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
