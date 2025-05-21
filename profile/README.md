@@ -127,6 +127,8 @@ cog.out(
 
 Our open positions:
 
+- [🤝 Data Analyst](https://careers.dataroots.io/o/data-analyst-exp)
+- [📚 Junior Data Analyst](https://careers.dataroots.io/o/junior-data-analyst)
 - [☀️ Senior Business Developer](https://careers.dataroots.io/o/business-developer-2)
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [⛅️ Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
