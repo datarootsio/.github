@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/1038_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/882_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [5 Misconceptions about Analytics Engineering (11/06/2025)](https://dataroots.io/blog/5-misconceptions-about-analytics-engineering)
 - [DevOps Best Practices for Automated AWS Infrastructure Management (27/05/2025)](https://dataroots.io/blog/devops-best-practices-for-automated-aws-infrastructure-management)
 - [SQLMesh vs dbt Core: Is a New Challenger Emerging in Analytics Engineering? (30/04/2025)](https://dataroots.io/blog/sqlmesh-vs-dbt-core-is-a-new-challenger-emerging-in-analytics-engineering)
 - [Key Insights from AWS Summit 2025: What Stuck with Us (and Why) (17/04/2025)](https://dataroots.io/blog/key-insights-from-aws-summit-2025-what-stuck-with-us-and-why)
 - [GenAI Is Taking Over the Modern Data Stack - Starting with dbt Copilot (25/03/2025)](https://dataroots.io/blog/genai-is-taking-over-the-modern-data-stack-and-dbt-copilot-is-leading-the-way-in-analytics-engineering-2)
-- [#technoshare summary - week 11 (17/03/2025)](https://dataroots.io/blog/technoshare-summary-week-11-2)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
