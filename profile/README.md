@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Open Source Unity Catalog (with dbt +DuckDB) (20/06/2025)](https://dataroots.io/blog/open-source-unity-catalog-with-dbt-duckdb)
 - [5 Misconceptions about Analytics Engineering (11/06/2025)](https://dataroots.io/blog/5-misconceptions-about-analytics-engineering)
 - [DevOps Best Practices for Automated AWS Infrastructure Management (27/05/2025)](https://dataroots.io/blog/devops-best-practices-for-automated-aws-infrastructure-management)
 - [SQLMesh vs dbt Core: Is a New Challenger Emerging in Analytics Engineering? (30/04/2025)](https://dataroots.io/blog/sqlmesh-vs-dbt-core-is-a-new-challenger-emerging-in-analytics-engineering)
 - [Key Insights from AWS Summit 2025: What Stuck with Us (and Why) (17/04/2025)](https://dataroots.io/blog/key-insights-from-aws-summit-2025-what-stuck-with-us-and-why)
-- [GenAI Is Taking Over the Modern Data Stack - Starting with dbt Copilot (25/03/2025)](https://dataroots.io/blog/genai-is-taking-over-the-modern-data-stack-and-dbt-copilot-is-leading-the-way-in-analytics-engineering-2)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
