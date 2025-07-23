@@ -127,12 +127,9 @@ cog.out(
 
 Our open positions:
 
-- [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
-- [⛅️ Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
-- [📊 Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
+- [Tech Lead](https://careers.dataroots.io/o/tech-lead)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
-- [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
 - [🤝 Data Analyst](https://careers.dataroots.io/o/data-analyst-exp)
 - [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🔮 GenAI Strategy Consultant](https://careers.dataroots.io/o/genai-strategy-consultant)
