@@ -127,7 +127,7 @@ cog.out(
 
 Our open positions:
 
-- [Tech Lead](https://careers.dataroots.io/o/tech-lead)
+- [🛠️ Tech Lead - Data & Cloud Engineering](https://careers.dataroots.io/o/tech-lead)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [🤝 Data Analyst](https://careers.dataroots.io/o/data-analyst-exp)
