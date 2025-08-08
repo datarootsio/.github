@@ -127,14 +127,14 @@ cog.out(
 
 Our open positions:
 
+- [🚀 Business-minded Data & AI Solutions Architect](https://careers.dataroots.io/o/business-minded-data-ai-solutions-architect)
 - [🛠️ Tech Lead - Data & Cloud Engineering](https://careers.dataroots.io/o/tech-lead)
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
-- [🤝 Data Analyst](https://careers.dataroots.io/o/data-analyst-exp)
+- [🤝 Senior Data Analyst](https://careers.dataroots.io/o/senior-data-analyst)
 - [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
-- [🔮 GenAI Strategy Consultant](https://careers.dataroots.io/o/genai-strategy-consultant)
-- [🔭 Data Strategy Consultant](https://careers.dataroots.io/o/data-strategy-consultant)
+- [🔮 GenAI / Data Strategy Consultant](https://careers.dataroots.io/o/genai-data-strategy-consultant)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
