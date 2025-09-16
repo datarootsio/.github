@@ -137,7 +137,6 @@ Our open positions:
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
 - [🤝 Senior Data Analyst](https://careers.dataroots.io/o/senior-data-analyst)
 - [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
-- [🔮 GenAI / Data Strategy Consultant](https://careers.dataroots.io/o/genai-data-strategy-consultant)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
