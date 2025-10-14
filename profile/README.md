@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Talk Tech to Me: Exploring Today’s Speech-to-Text Breakthroughs - From Brittle Systems to Adaptable AI (13/10/2025)](https://dataroots.io/blog/talk-tech-to-me-exploring-todays-speech-to-text-breakthroughs-from-brittle-systems-to-adaptable-ai)
 - [Kubernetes for AI Workloads: From Infrastructure Challenges to Scalable Solutions (01/10/2025)](https://dataroots.io/blog/kubernetes-for-ai-workloads)
 - [Open Source Unity Catalog (with dbt +DuckDB) (20/06/2025)](https://dataroots.io/blog/open-source-unity-catalog-with-dbt-duckdb)
 - [5 Misconceptions about Analytics Engineering (11/06/2025)](https://dataroots.io/blog/5-misconceptions-about-analytics-engineering)
 - [DevOps Best Practices for Automated AWS Infrastructure Management (27/05/2025)](https://dataroots.io/blog/devops-best-practices-for-automated-aws-infrastructure-management)
-- [SQLMesh vs dbt Core: Is a New Challenger Emerging in Analytics Engineering? (30/04/2025)](https://dataroots.io/blog/sqlmesh-vs-dbt-core-is-a-new-challenger-emerging-in-analytics-engineering)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
