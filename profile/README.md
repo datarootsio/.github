@@ -127,7 +127,6 @@ cog.out(
 
 Our open positions:
 
-- [🚀 Data & AI Solutions Architect](https://careers.dataroots.io/o/data-ai-solutions-architect)
 - [⛅️ Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠️ Tech Lead - Data Engineering](https://careers.dataroots.io/o/tech-lead-data-engineering)
