@@ -127,17 +127,18 @@ cog.out(
 
 Our open positions:
 
+- [🛠️ Tech Lead - Data Engineering](https://careers.dataroots.io/o/tech-lead-data-engineering)
 - [⛅️ Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
-- [🛠️ Tech Lead - Data Engineering](https://careers.dataroots.io/o/tech-lead-data-engineering)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
 - [📊 Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
-- [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🔮 GenAI / Data Strategy Consultant](https://careers.dataroots.io/o/genai-data-strategy-consultant)
+- [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 - [🔎 IT Recruitment Specialist - Team Lead](https://careers.dataroots.io/o/it-recruitment-specialist-team-lead)
+- [💚 HR Business Partner](https://careers.dataroots.io/o/hr-business-partner)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
