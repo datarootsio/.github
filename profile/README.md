@@ -139,6 +139,7 @@ Our open positions:
 - [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 - [🔎 IT Recruitment Specialist - Team Lead](https://careers.dataroots.io/o/it-recruitment-specialist-team-lead)
+- [🔍 IT Recruitment Specialist](https://careers.dataroots.io/o/it-recruitment-specialist)
 - [💚 HR Business Partner](https://careers.dataroots.io/o/hr-business-partner)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
