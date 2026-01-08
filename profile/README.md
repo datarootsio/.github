@@ -129,7 +129,7 @@ Our open positions:
 
 - [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
 - [🛠️ Tech Lead - Data Engineering](https://careers.dataroots.io/o/tech-lead-data-engineering)
-- [⛅️ Cloud (& Data) Engineer](https://careers.dataroots.io/o/experienced-cloud-engineer)
+- [⛅️ Data Platform Engineer](https://careers.dataroots.io/o/data-platform-engineer)
 - [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
