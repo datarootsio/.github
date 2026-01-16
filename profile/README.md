@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Lessons learned from a one-year migration towards Fabric & dbt (15/01/2026)](https://dataroots.io/blog/lessons-learned-from-a-one-year-migration-towards-fabric-dbt)
 - [A stronger dataroots built for the future of data & AI (19/11/2025)](https://dataroots.io/blog/a-stronger-dataroots-built-for-the-future-of-data-ai)
 - [The Psychology of Persuasion: Turning Insights into Impact (10/11/2025)](https://dataroots.io/blog/the-psychology-of-persuasion-turning-insights-into-impact)
 - [Building a Conversational Data Assistant with GenAI (05/11/2025)](https://dataroots.io/blog/building-a-conversational-data-assistant-with-genai)
 - [From Behavioural Signals to Smarter Recommendations: Redesigning an Affinity Algorithm for Better Personalisation (27/10/2025)](https://dataroots.io/blog/from-behavioural-signals-to-smarter-recommendations)
-- [Talk Tech to Me: Exploring Today’s Speech-to-Text Breakthroughs - From Brittle Systems to Adaptable AI (13/10/2025)](https://dataroots.io/blog/talk-tech-to-me-exploring-todays-speech-to-text-breakthroughs-from-brittle-systems-to-adaptable-ai)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
