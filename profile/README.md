@@ -127,6 +127,7 @@ cog.out(
 
 Our open positions:
 
+- [🦸 Team Lead Data & AI Strategy](https://careers.dataroots.io/o/team-lead-data-ai-strategy)
 - [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
 - [🛠️ Tech Lead - Data Engineering](https://careers.dataroots.io/o/tech-lead-data-engineering)
 - [⛅️ Data Platform Engineer](https://careers.dataroots.io/o/data-platform-engineer)
