@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/900_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/901_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Scaling Data Trust with AI: Faster Detection, Clearer Ownership & Better Decisions. (18/02/2026)](https://dataroots.io/blog/scaling-data-trust-with-ai)
 - [From LLM Demo to Production: Why LLM Ops Is Not Optional (21/01/2026)](https://dataroots.io/blog/from-llm-demo-to-production-why-llm-ops-is-not-optional)
 - [Lessons learned from a one-year migration towards Fabric & dbt (15/01/2026)](https://dataroots.io/blog/lessons-learned-from-a-one-year-migration-towards-fabric-dbt)
 - [A stronger dataroots built for the future of data & AI (19/11/2025)](https://dataroots.io/blog/a-stronger-dataroots-built-for-the-future-of-data-ai)
 - [The Psychology of Persuasion: Turning Insights into Impact (10/11/2025)](https://dataroots.io/blog/the-psychology-of-persuasion-turning-insights-into-impact)
-- [Building a Conversational Data Assistant with GenAI (05/11/2025)](https://dataroots.io/blog/building-a-conversational-data-assistant-with-genai)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
