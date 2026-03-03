@@ -127,6 +127,8 @@ cog.out(
 
 Our open positions:
 
+- [🛠 Junior Data & Cloud Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
+- [⚙️ Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [⚡️ Tech Lead Data Enablement](https://careers.dataroots.io/o/tech-lead-data-enablement)
 - [🦸 Team Lead Data & AI Strategy](https://careers.dataroots.io/o/team-lead-data-ai-strategy)
 - [🔮 GenAI / Data Strategy Consultant](https://careers.dataroots.io/o/genai-data-strategy-consultant)
