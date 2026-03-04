@@ -127,18 +127,18 @@ cog.out(
 
 Our open positions:
 
-- [🛠 Junior Data & Cloud Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
-- [⚙️ Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [⚡️ Tech Lead Data Enablement](https://careers.dataroots.io/o/tech-lead-data-enablement)
 - [🦸 Team Lead Data & AI Strategy](https://careers.dataroots.io/o/team-lead-data-ai-strategy)
 - [🔮 GenAI / Data Strategy Consultant](https://careers.dataroots.io/o/genai-data-strategy-consultant)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 - [📊 Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
 - [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
+- [🛠 Junior Data & Cloud Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
+- [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
 - [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
 - [🛠️ Tech Lead - Data Engineering](https://careers.dataroots.io/o/tech-lead-data-engineering)
 - [⛅️ Data Platform Engineer](https://careers.dataroots.io/o/data-platform-engineer)
-- [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
+- [⚙️ Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
