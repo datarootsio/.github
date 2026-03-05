@@ -128,7 +128,6 @@ cog.out(
 Our open positions:
 
 - [⚡️ Tech Lead Data Enablement](https://careers.dataroots.io/o/tech-lead-data-enablement)
-- [🦸 Team Lead Data & AI Strategy](https://careers.dataroots.io/o/team-lead-data-ai-strategy)
 - [🔮 GenAI / Data Strategy Consultant](https://careers.dataroots.io/o/genai-data-strategy-consultant)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 - [📊 Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
