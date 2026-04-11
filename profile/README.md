@@ -133,7 +133,7 @@ Our open positions:
 - [📊 Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
 - [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🛠 Junior Data & Cloud Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
-- [🛠 Data & Cloud Engineer](https://careers.dataroots.io/o/experienced-data-engineer-hybrid)
+- [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
 - [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
 - [🛠️ Tech Lead - Data Engineering](https://careers.dataroots.io/o/tech-lead-data-engineering)
 - [⛅️ Data Platform Engineer](https://careers.dataroots.io/o/data-platform-engineer)
