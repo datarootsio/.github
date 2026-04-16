@@ -135,7 +135,6 @@ Our open positions:
 - [🛠 Junior Data & Cloud Engineer](https://careers.dataroots.io/o/junior-data-engineer-hybrid)
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
 - [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
-- [🛠️ Tech Lead - Data Engineering](https://careers.dataroots.io/o/tech-lead-data-engineering)
 - [⛅️ Data Platform Engineer](https://careers.dataroots.io/o/data-platform-engineer)
 - [⚙️ Junior Machine Learning Engineer](https://careers.dataroots.io/o/junior-machine-learning-engineer-leuven)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
