@@ -136,6 +136,7 @@ Our open positions:
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
 - [🛠 Team Lead Data & Cloud Engineering](https://careers.dataroots.io/o/team-lead-data-and-cloud)
 - [⛅️ Data Platform Engineer](https://careers.dataroots.io/o/data-platform-engineer)
+- [⚙️ GenAI Software Engineer](https://careers.dataroots.io/o/genai-software-engineer)
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
