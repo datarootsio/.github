@@ -139,7 +139,6 @@ Our open positions:
 - [🤖 Machine Learning Engineer](https://careers.dataroots.io/o/machine-learning-engineer-2)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
-- [🔍 IT Recruitment Specialist](https://careers.dataroots.io/o/it-recruitment-specialist)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
