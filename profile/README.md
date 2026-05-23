@@ -127,7 +127,6 @@ cog.out(
 
 Our open positions:
 
-- [⚡️ Tech Lead Data Enablement](https://careers.dataroots.io/o/tech-lead-data-enablement)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 - [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
