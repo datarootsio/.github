@@ -129,6 +129,7 @@ Our open positions:
 
 - [🦸 Office Hero (FLEXI)](https://careers.dataroots.io/o/office-hero-flexi)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
+- [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
 - [⛅️ Data Platform Engineer](https://careers.dataroots.io/o/data-platform-engineer)
 - [⚙️ GenAI Software Engineer](https://careers.dataroots.io/o/genai-software-engineer)
