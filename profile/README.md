@@ -132,7 +132,9 @@ Our open positions:
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
 - [⛅️ Data Platform Engineer](https://careers.dataroots.io/o/data-platform-engineer)
 - [⚙️ GenAI Software Engineer](https://careers.dataroots.io/o/genai-software-engineer)
-- [🤖 AI/ML Engineer](https://careers.dataroots.io/o/aiml-engineer)
+- [🚀 AI Business Unit Lead](https://careers.dataroots.io/o/ai-business-unit-lead)
+- [💎 Team Lead - AI Engineering](https://careers.dataroots.io/o/team-lead-ai-engineering)
+- [🤖 AI Engineer](https://careers.dataroots.io/o/ai-engineer)
 - [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
 
