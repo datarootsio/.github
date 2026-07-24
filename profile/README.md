@@ -130,12 +130,12 @@ Our open positions:
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 - [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
+- [🛠️ Tech Lead - Data Platform Engineering](https://careers.dataroots.io/o/tech-lead-data-platform-engineering)
 - [⛅️ Data Platform Engineer](https://careers.dataroots.io/o/data-platform-engineer)
-- [⚙️ GenAI Software Engineer](https://careers.dataroots.io/o/genai-software-engineer)
 - [🚀 AI Business Unit Lead](https://careers.dataroots.io/o/ai-business-unit-lead)
 - [💎 Team Lead - AI Engineering](https://careers.dataroots.io/o/team-lead-ai-engineering)
 - [🤖 AI Engineer](https://careers.dataroots.io/o/ai-engineer)
-- [🧠 Expert Machine Learning Engineer](https://careers.dataroots.io/o/expert-machine-learning-engineer-1)
+- [🧠 Senior AI Engineer](https://careers.dataroots.io/o/senior-ai-engineer)
 - [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
