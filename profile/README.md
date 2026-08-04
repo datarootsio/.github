@@ -127,6 +127,7 @@ cog.out(
 
 Our open positions:
 
+- [🦾 AI Solution Engineer](https://careers.dataroots.io/o/ai-solution-engineer)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 - [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
@@ -137,7 +138,7 @@ Our open positions:
 - [💎 Team Lead - AI Engineering](https://careers.dataroots.io/o/team-lead-ai-engineering)
 - [🤖 AI Engineer](https://careers.dataroots.io/o/ai-engineer)
 - [🧠 Senior AI Engineer](https://careers.dataroots.io/o/senior-ai-engineer)
-- [💡 MLOps Engineer](https://careers.dataroots.io/o/mlops-engineer)
+- [💡 AI Engineer (MLOps & LLMOps)](https://careers.dataroots.io/o/ai-engineer-mlops-llmops)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
