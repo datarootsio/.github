@@ -127,7 +127,7 @@ cog.out(
 
 Our open positions:
 
-- [🦾 AI Solution Engineer](https://careers.dataroots.io/o/ai-solution-engineer)
+- [🦾 AI Deployment Strategist](https://careers.dataroots.io/o/ai-deployment-strategist)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 - [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
