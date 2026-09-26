@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Enabling Data Platform Self-Service with AI (25/09/2026)](https://dataroots.io/blog/enabling-data-platform-self-service-with-ai)
 - [Scaling Data Trust with AI: Faster Detection, Clearer Ownership & Better Decisions. (18/02/2026)](https://dataroots.io/blog/scaling-data-trust-with-ai)
 - [From LLM Demo to Production: Why LLM Ops Is Not Optional (21/01/2026)](https://dataroots.io/blog/from-llm-demo-to-production-why-llm-ops-is-not-optional)
 - [Lessons learned from a one-year migration towards Fabric & dbt (15/01/2026)](https://dataroots.io/blog/lessons-learned-from-a-one-year-migration-towards-fabric-dbt)
 - [A stronger dataroots built for the future of data & AI (19/11/2025)](https://dataroots.io/blog/a-stronger-dataroots-built-for-the-future-of-data-ai)
-- [The Psychology of Persuasion: Turning Insights into Impact (10/11/2025)](https://dataroots.io/blog/the-psychology-of-persuasion-turning-insights-into-impact)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
@@ -130,7 +130,7 @@ Our open positions:
 - [🦾 AI Deployment Strategist](https://careers.dataroots.io/o/ai-deployment-strategist)
 - [🔮 AI Strategy Consultant](https://careers.dataroots.io/o/ai-strategy-consultant)
 - [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
-- [📊 Analytics Engineer](https://careers.dataroots.io/o/junior-analytics-engineer)
+- [📊 Senior Analytics Engineer](https://careers.dataroots.io/o/senior-analytics-engineer)
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
 - [🛠️ Tech Lead - Data Platform Engineering](https://careers.dataroots.io/o/tech-lead-data-platform-engineering)
 - [⛅️ Data Platform Engineer](https://careers.dataroots.io/o/data-platform-engineer)
