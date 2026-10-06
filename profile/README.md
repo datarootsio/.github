@@ -20,7 +20,7 @@ cog.out(
     stars.shield()
 )
 ]]] -->
-[![stars](https://img.shields.io/badge/905_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
+[![stars](https://img.shields.io/badge/904_⭐️_-GitHub_Stars-38b580)](https://github.com/orgs/datarootsio/repositories)
 <!-- [[[end]]] -->
 
 > Dataroots was founded out of a strong belief that AI & data-driven solutions can be used by companies to gain a competitive edge in terms of company processes, customer interactions and legal compliance. Our mission is to deliver data-driven solutions with unrivalled longevity and business impact for our clients.
@@ -127,10 +127,10 @@ cog.out(
 
 Our open positions:
 
-- [Sales Director - Data & AI](https://careers.dataroots.io/o/sales-director-data-ai)
+- [🤝 Sales Director - Data & AI](https://careers.dataroots.io/o/sales-director-data-ai)
 - [🦾 AI Deployment Strategist](https://careers.dataroots.io/o/ai-deployment-strategist)
 - [🔮 AI Strategy Consultant](https://careers.dataroots.io/o/ai-strategy-consultant)
-- [🤝  Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
+- [🛡️ Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
 - [📊 Senior Analytics Engineer](https://careers.dataroots.io/o/senior-analytics-engineer)
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
 - [🛠️ Tech Lead - Data Platform Engineering](https://careers.dataroots.io/o/tech-lead-data-platform-engineering)
