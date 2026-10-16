@@ -106,11 +106,11 @@ cog.out(
 
 Our latest posts:
 
+- [Is your documentation ready for AI agents? (15/10/2026)](https://dataroots.io/blog/is-your-documentation-ready-for-ai-agents)
 - [Enabling Data Platform Self-Service with AI (25/09/2026)](https://dataroots.io/blog/enabling-data-platform-self-service-with-ai)
 - [Scaling Data Trust with AI: Faster Detection, Clearer Ownership & Better Decisions. (18/02/2026)](https://dataroots.io/blog/scaling-data-trust-with-ai)
 - [From LLM Demo to Production: Why LLM Ops Is Not Optional (21/01/2026)](https://dataroots.io/blog/from-llm-demo-to-production-why-llm-ops-is-not-optional)
 - [Lessons learned from a one-year migration towards Fabric & dbt (15/01/2026)](https://dataroots.io/blog/lessons-learned-from-a-one-year-migration-towards-fabric-dbt)
-- [A stronger dataroots built for the future of data & AI (19/11/2025)](https://dataroots.io/blog/a-stronger-dataroots-built-for-the-future-of-data-ai)
 
 Check out all our posts at [dataroots.io/blog/](https://dataroots.io/blog/) 👈
 <!-- [[[end]]] -->
