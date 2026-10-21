@@ -127,6 +127,7 @@ cog.out(
 
 Our open positions:
 
+- [🔍 IT Recruitment Specialist](https://careers.dataroots.io/o/it-recruitment-specialist)
 - [🤝 Sales Director - Data & AI](https://careers.dataroots.io/o/sales-director-data-ai)
 - [🦾 AI Deployment Strategist](https://careers.dataroots.io/o/ai-deployment-strategist)
 - [🔮 AI Strategy Consultant](https://careers.dataroots.io/o/ai-strategy-consultant)
