@@ -127,11 +127,10 @@ cog.out(
 
 Our open positions:
 
-- [🔍 IT Recruitment Specialist](https://careers.dataroots.io/o/it-recruitment-specialist)
 - [🤝 Sales Director - Data & AI](https://careers.dataroots.io/o/sales-director-data-ai)
 - [🦾 AI Deployment Strategist](https://careers.dataroots.io/o/ai-deployment-strategist)
 - [🔮 AI Strategy Consultant](https://careers.dataroots.io/o/ai-strategy-consultant)
-- [🛡️ Senior Data Governance Expert](https://careers.dataroots.io/o/senior-data-governance-expert)
+- [📊 Data Management Engineer](https://careers.dataroots.io/o/data-management-engineer)
 - [📊 Senior Analytics Engineer](https://careers.dataroots.io/o/senior-analytics-engineer)
 - [🛠 Data Engineer](https://careers.dataroots.io/o/data-engineer-4)
 - [🛠️ Tech Lead - Data Platform Engineering](https://careers.dataroots.io/o/tech-lead-data-platform-engineering)
@@ -141,6 +140,7 @@ Our open positions:
 - [💎 Team Lead - AI Engineering](https://careers.dataroots.io/o/team-lead-ai-engineering)
 - [🤖 AI Engineer](https://careers.dataroots.io/o/ai-engineer)
 - [💡 AI Engineer (MLOps & LLMOps)](https://careers.dataroots.io/o/ai-engineer-mlops-llmops)
+- [🔍 IT Recruitment Specialist](https://careers.dataroots.io/o/it-recruitment-specialist)
 
 For more info check out [dataroots.io/careers](https://dataroots.io/careers) 👈
 <!-- [[[end]]] -->
